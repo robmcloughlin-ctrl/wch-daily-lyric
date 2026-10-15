@@ -1,0 +1,47 @@
+name: Daily lyric
+
+on:
+  schedule:
+    # GitHub runs schedules in UTC and sometimes late, so try a few times each morning.
+    # The script posts once, at or after 9 am Pacific, and skips if today's card is already up.
+    - cron: "5 16,17,18,19 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Test only: prepare the post but don't publish it"
+        type: boolean
+        default: true
+      force:
+        description: "Ignore the time-of-day check"
+        type: boolean
+        default: true
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency: daily-lyric
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Post today's card
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          DRY_RUN: ${{ inputs.dry_run }}
+          FORCE: ${{ inputs.force }}
+        run: python scripts/post.py
+      - name: Open an issue if posting failed
+        if: failure() && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "Daily lyric didn't post on $(TZ=America/Los_Angeles date +%F)" \
+            --body "The scheduled run failed. Details: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
