@@ -8,7 +8,8 @@ import json, os, sys, time, urllib.parse, urllib.request
 from datetime import datetime, date
 from zoneinfo import ZoneInfo
 
-API = "https://graph.instagram.com/v23.0"
+# Instagram API with Unified login (Facebook Login for Business, system-user token)
+API = "https://graph.facebook.com/v23.0"
 TOKEN = os.environ["IG_TOKEN"]
 USER = os.environ["IG_USER_ID"]
 REPO = os.environ["GITHUB_REPOSITORY"]          # owner/name, set by GitHub
