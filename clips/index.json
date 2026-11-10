@@ -1,0 +1,3652 @@
+[
+ {
+  "day": 1,
+  "song": "Barcelona",
+  "line": "Halfway around the world I\u2019ll find myself",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_10-Barcelona-1-6-2025-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 109.84,
+  "clip_len": 10.22
+ },
+ {
+  "day": 2,
+  "song": "Electric Heart",
+  "line": "I may be moving on slowly, but I\u2019m dreaming new dreams",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-AudioFiles_01-Electric-Heart-June-Master_FINAL_2019-11-23.m4a",
+  "clip_start": 37.16,
+  "clip_len": 14.84
+ },
+ {
+  "day": 3,
+  "song": "Anchor & Wave",
+  "line": "I was the anchor, you were the wave",
+  "status": "no audio",
+  "score": null,
+  "file": null,
+  "clip_start": null,
+  "clip_len": null
+ },
+ {
+  "day": 4,
+  "song": "The Heat We Create",
+  "line": "Drop a wish upon the nearest star before we fall asleep at night",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-SilentStreet_02-The-Heat-We-Create-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 193.82,
+  "clip_len": 13.46
+ },
+ {
+  "day": 5,
+  "song": "We Turn To Gold",
+  "line": "You soothe my soul. When I\u2019m with you, we turn to gold",
+  "status": "ok",
+  "score": 86,
+  "file": "WCH-MusicMastersBounces_07-We-Turn-To-Gold-1-19-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 319.6,
+  "clip_len": 15.0
+ },
+ {
+  "day": 6,
+  "song": "Loud Love",
+  "line": "I\u2019ve been dreaming of a loud love lately",
+  "status": "line not found",
+  "score": 0,
+  "file": "WCH-WhenTheLightTurnsSoft_04-Loud-Love-8-25-25-Master_FINAL_2025-09-09.mp3",
+  "clip_start": null,
+  "clip_len": null
+ },
+ {
+  "day": 7,
+  "song": "Morning Sun",
+  "line": "Still alive, I stand strong. Breathe in, breathe out, walk on",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-MusicMastersBounces_01-Morning-Sun-11-26-2024-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 284.5,
+  "clip_len": 15.0
+ },
+ {
+  "day": 8,
+  "song": "Beautiful Once",
+  "line": "I was beautiful once, between the quiet and the rush",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_06-Beautiful-Once_FINAL_2026-10-24.m4a",
+  "clip_start": 156.0,
+  "clip_len": 13.16
+ },
+ {
+  "day": 9,
+  "song": "Something",
+  "line": "You almost didn\u2019t answer, I almost didn\u2019t call",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-MusicMastersBounces_02-Something_FINAL_2026-10-24.m4a",
+  "clip_start": 21.32,
+  "clip_len": 11.14
+ },
+ {
+  "day": 10,
+  "song": "All My Friends Got Famous",
+  "line": "All my friends got famous, I stayed the same",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-All-My-Friends-Got-Famous-7-8-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 10.72,
+  "clip_len": 10.0
+ },
+ {
+  "day": 11,
+  "song": "Sea of My Heart",
+  "line": "My heart slows down because it\u2019s found a home",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-DarkMoon_06-Sea-of-My-Heart-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 103.54,
+  "clip_len": 13.88
+ },
+ {
+  "day": 12,
+  "song": "Days of Gold",
+  "line": "The days of gold whisper secrets in the air",
+  "status": "ok",
+  "score": 99,
+  "file": "WCH-DaysOfGold_01-Days-of-Gold-V4-Aug-2024-Master_FINAL_2024-08-28.m4a",
+  "clip_start": 196.72,
+  "clip_len": 12.18
+ },
+ {
+  "day": 13,
+  "song": "Bad Weather",
+  "line": "We weathered every storm, outlasted heavy rain",
+  "status": "ok",
+  "score": 90,
+  "file": "WCH-MusicMastersBounces_07-Bad-Weather-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 187.56,
+  "clip_len": 15.0
+ },
+ {
+  "day": 14,
+  "song": "Only Begun",
+  "line": "Every wrong turn, every sleepless night led me to your light",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-MusicMastersBounces_01-Only-Begun-8-6-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 178.08,
+  "clip_len": 15.0
+ },
+ {
+  "day": 15,
+  "song": "Star",
+  "line": "Winter mornings, summer nights, you make every moment feel just right",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-DaysOfGold_02-Star-Aug-2024-Master_FINAL_2024-08-28.m4a",
+  "clip_start": 101.94,
+  "clip_len": 15.0
+ },
+ {
+  "day": 16,
+  "song": "Summer\u2019s Heart",
+  "line": "The moon revolves round all of us, the sun chooses one to kiss",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-SummerSHeartFinal_05-Summers-Heart-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 19.0,
+  "clip_len": 15.0
+ },
+ {
+  "day": 17,
+  "song": "Crush on You",
+  "line": "I won\u2019t say it out loud, I\u2019m already writing my vows",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-MusicMastersBounces_03-Crush-On-You-7-18_FINAL_2026-10-24.m4a",
+  "clip_start": 150.88,
+  "clip_len": 11.56
+ },
+ {
+  "day": 18,
+  "song": "The Hours",
+  "line": "I could listen to you talk forever",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-FavoriteSongLP_03-The-Hours-Master-6-13-26_FINAL_2026-06-13.m4a",
+  "clip_start": 3.6,
+  "clip_len": 10.46
+ },
+ {
+  "day": 19,
+  "song": "The Golden Hour",
+  "line": "Every sad song that I\u2019ve ever sung all lead up to this time and place",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-MusicMastersBounces_The-Golden-Hour-9-6-24-Master_FINAL_2024-09-06.m4a",
+  "clip_start": 100.82,
+  "clip_len": 15.0
+ },
+ {
+  "day": 20,
+  "song": "Text Me (When You\u2019re Bored)",
+  "line": "Text me when you\u2019re bored, tell me that I\u2019m yours",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_01-Text-Me-When-Youre-Bored-7-8-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 31.98,
+  "clip_len": 10.0
+ },
+ {
+  "day": 21,
+  "song": "The Future",
+  "line": "I knew you long before we met, we just hadn\u2019t found each other yet",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_07-The-Future-FINAL-MASTER_v01_2026-10-24.m4a",
+  "clip_start": 152.82,
+  "clip_len": 15.0
+ },
+ {
+  "day": 22,
+  "song": "After Party",
+  "line": "You are proof that happiness exists",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-FavoriteSongLP_02-After-Party_FINAL_2026-09-28.m4a",
+  "clip_start": 166.62,
+  "clip_len": 11.58
+ },
+ {
+  "day": 23,
+  "song": "Black Coffee",
+  "line": "I drink black coffee til you come back",
+  "status": "ok",
+  "score": 99,
+  "file": "WCH-TheCityTheSea_03-Black-Coffee-Lockdown-Master-2_FINAL_2021-04-12.m4a",
+  "clip_start": 105.96,
+  "clip_len": 11.76
+ },
+ {
+  "day": 24,
+  "song": "All Point West",
+  "line": "Searching for a sign, and they all point west",
+  "status": "ok",
+  "score": 80,
+  "file": "WCH-MusicMastersBounces_04-All-Point-West-11-26-2024-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 221.64,
+  "clip_len": 14.74
+ },
+ {
+  "day": 25,
+  "song": "The Ocean",
+  "line": "The ocean never rests out west, summer waves melt slow to shore",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_10-The-Ocean-Lockdown-Master-2_FINAL_2021-04-12.m4a",
+  "clip_start": 14.92,
+  "clip_len": 14.32
+ },
+ {
+  "day": 26,
+  "song": "London Looks Good On You",
+  "line": "You moved to London for the rain, LA was burning out your brain",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-MusicMastersBounces_02-London-Looks-Good-On-You-V2-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 2.3,
+  "clip_len": 11.5
+ },
+ {
+  "day": 27,
+  "song": "We Talk of Shapes",
+  "line": "You\u2019re my north star, I follow you wherever you are",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_11-We-Talk-of-Shapes-Lockdown-Master-3_FINAL_2021-04-14.m4a",
+  "clip_start": 200.42,
+  "clip_len": 15.0
+ },
+ {
+  "day": 28,
+  "song": "One Highway",
+  "line": "Highway One, mile by mile, up the coast in style",
+  "status": "ok",
+  "score": 90,
+  "file": "WCH-SummersHeart_01-One-Highway-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 132.6,
+  "clip_len": 15.0
+ },
+ {
+  "day": 29,
+  "song": "Sleeping In",
+  "line": "Let the sunlight fill the room, burn off the marine layer",
+  "status": "ok",
+  "score": 85,
+  "file": "WCH-MusicMastersBounces_Sleeping-In-11-9-Master_FINAL_2021-11-09.m4a",
+  "clip_start": 77.36,
+  "clip_len": 12.78
+ },
+ {
+  "day": 30,
+  "song": "Eventually",
+  "line": "Water finds its way back to the sea, eventually",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SummersHeart_12-Eventually-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 56.62,
+  "clip_len": 15.0
+ },
+ {
+  "day": 31,
+  "song": "Nothing Left To Fear",
+  "line": "All we have is here and now, there is nothing left to fear",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_08-Nothing-Left-To-Fear-1-19-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 74.5,
+  "clip_len": 15.0
+ },
+ {
+  "day": 32,
+  "song": "Midnight in Tokyo",
+  "line": "Meet me at midnight in Tokyo, skyline bleeds into indigo",
+  "status": "ok",
+  "score": 92,
+  "file": "WCH-MusicMastersBounces_03-Midnight-in-Tokyo-Master_v01_2026-10-24.m4a",
+  "clip_start": 151.96,
+  "clip_len": 15.0
+ },
+ {
+  "day": 33,
+  "song": "Dark Room",
+  "line": "The past is a foreign country I visit when I can",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-GoldenHour_09-Dark-Room_FINAL_2025-01-27.m4a",
+  "clip_start": 79.74,
+  "clip_len": 11.04
+ },
+ {
+  "day": 34,
+  "song": "Borrowed Coat",
+  "line": "Wore my heart like a borrowed coat",
+  "status": "ok",
+  "score": 88,
+  "file": "WCH-MusicMastersBounces_04-Borrowed-Coat-FINAL-MASTER-1_FINAL_2026-10-24.m4a",
+  "clip_start": 21.6,
+  "clip_len": 10.0
+ },
+ {
+  "day": 35,
+  "song": "Your Ghost",
+  "line": "Someday you will be another hazy memory",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-ModernHeartbreak_03-Your-Ghost-July-2024-Master_FINAL_2024-07-22.m4a",
+  "clip_start": 82.3,
+  "clip_len": 10.38
+ },
+ {
+  "day": 36,
+  "song": "The Songs You Sing",
+  "line": "Never knew your songs were a skeleton key",
+  "status": "ok",
+  "score": 88,
+  "file": "WCH-MusicMastersBounces_04-The-Songs-You-Sing-2-8-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 353.44,
+  "clip_len": 10.0
+ },
+ {
+  "day": 37,
+  "song": "Sirens",
+  "line": "Your eyes are the ocean, so deep and so blue",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-ModernHeartbreak_02-Sirens-July-2024-Master_FINAL_2024-07-22.m4a",
+  "clip_start": 149.8,
+  "clip_len": 15.0
+ },
+ {
+  "day": 38,
+  "song": "Nothing Lasts Forever",
+  "line": "Some things you hold onto, some things hold onto you",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-SlowBurnEP_05-Nothing-Lasts-Forever-7-20_FINAL_2026-07-20.m4a",
+  "clip_start": 98.42,
+  "clip_len": 13.24
+ },
+ {
+  "day": 39,
+  "song": "Anywhere You Stand",
+  "line": "Home\u2019s not where I land, it\u2019s anywhere you stand",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_01-Anywhere-You-Stand-7-23_FINAL_2026-10-24.m4a",
+  "clip_start": 82.66,
+  "clip_len": 13.16
+ },
+ {
+  "day": 40,
+  "song": "Painted Lines",
+  "line": "Everything worth anything can take some time",
+  "status": "ok",
+  "score": 89,
+  "file": "WCH-SilentStreet_06-Painted-Lines-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 175.72,
+  "clip_len": 12.7
+ },
+ {
+  "day": 41,
+  "song": "Under the Crystal Moon",
+  "line": "Stars explode above me under the crystal moon",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-BrighterDays2020_04-Under-The-Crystal-Moon-mastered_FINAL_2018-08-22.m4a",
+  "clip_start": 93.72,
+  "clip_len": 13.08
+ },
+ {
+  "day": 42,
+  "song": "Perfect Day",
+  "line": "It\u2019s a perfect day to open up your heart",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DaysOfGold_04-Perfect-Day-Aug-2024-Master_FINAL_2024-08-28.m4a",
+  "clip_start": 20.94,
+  "clip_len": 10.14
+ },
+ {
+  "day": 43,
+  "song": "Lost Time",
+  "line": "Seconds stack together, days fall apart. This is my moment to brave the dark",
+  "status": "ok",
+  "score": 99,
+  "file": "WCH-MusicMastersBounces_04-Lost-Time-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 236.4,
+  "clip_len": 15.0
+ },
+ {
+  "day": 44,
+  "song": "Faded",
+  "line": "We don\u2019t burn out, we just fade away",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-BrighterDays2020_02-Faded-mastered_FINAL_2018-08-22.m4a",
+  "clip_start": 185.08,
+  "clip_len": 10.46
+ },
+ {
+  "day": 45,
+  "song": "Summer Nights",
+  "line": "Rain falls over the ocean, summer nights fill me with emotion",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-AudioFiles_07-Summer-Nights-Alt2-Master-Feb-2019_FINAL_2019-11-23.m4a",
+  "clip_start": 83.68,
+  "clip_len": 15.0
+ },
+ {
+  "day": 46,
+  "song": "Steps",
+  "line": "I wish to be the words of your all-time favorite song",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_10-Steps-8-13-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 24.3,
+  "clip_len": 13.3
+ },
+ {
+  "day": 47,
+  "song": "Sweet Thursday",
+  "line": "I have nothing left to say, but I wish you a sweet Thursday",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-SilentStreet_10-Sweet-Thursday-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 149.18,
+  "clip_len": 15.0
+ },
+ {
+  "day": 48,
+  "song": "Come September",
+  "line": "But come September, you\u2019ll remember me",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-DarkMoon_07-Come-September-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 68.54,
+  "clip_len": 10.5
+ },
+ {
+  "day": 49,
+  "song": "Maps",
+  "line": "I found a map I used to find my way to you",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_12-Maps-8-6-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 215.82,
+  "clip_len": 15.0
+ },
+ {
+  "day": 50,
+  "song": "Beginners",
+  "line": "Let\u2019s be beginners, let\u2019s start tonight",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_11-Beginners-2-11-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 90.98,
+  "clip_len": 12.28
+ },
+ {
+  "day": 51,
+  "song": "Moonlight, Midnight",
+  "line": "We talk about how funny life can be, the simple things that brought us together",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-AudioFiles_08-Moonlight-Midnight_FINAL_2019-04-24.m4a",
+  "clip_start": 129.32,
+  "clip_len": 15.0
+ },
+ {
+  "day": 52,
+  "song": "Call The Saints",
+  "line": "Leave the door wide open, won\u2019t you? Let a little bit of light get through",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_09-Call-The-Saints-2-8-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 174.72,
+  "clip_len": 14.58
+ },
+ {
+  "day": 53,
+  "song": "After The Rain",
+  "line": "After the rain, the world feels new",
+  "status": "ok",
+  "score": 76,
+  "file": "WCH-MusicMastersBounces_05-After-The-Rain-1-19-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 79.56,
+  "clip_len": 10.0
+ },
+ {
+  "day": 54,
+  "song": "Empty Days",
+  "line": "I know you aren\u2019t filled with magic, but you heal me anyway",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DarkMoon_04-Empty-Days-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 3.56,
+  "clip_len": 15.0
+ },
+ {
+  "day": 55,
+  "song": "Favorite Song",
+  "line": "Simple as a Sunday night, quiet as the break of dawn",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_05-Favorite-Song-7-23_FINAL_2026-10-24.m4a",
+  "clip_start": 47.3,
+  "clip_len": 15.0
+ },
+ {
+  "day": 56,
+  "song": "Disco",
+  "line": "If you would follow me anywhere I roam, then anywhere I\u2019d find myself was home",
+  "status": "ok",
+  "score": 98,
+  "file": "WCH-TheCityTheSea_02-Disco-Lockdown-Master_FINAL_2021-04-12.m4a",
+  "clip_start": 195.98,
+  "clip_len": 15.0
+ },
+ {
+  "day": 57,
+  "song": "Stare at the Sun",
+  "line": "I stare at the sun until it blinds me, search for a spark until you ignite me",
+  "status": "ok",
+  "score": 99,
+  "file": "WCH-MusicMastersBounces_Stare-At-The-Sun-Ozone-11-9_FINAL_2021-11-09.m4a",
+  "clip_start": 26.72,
+  "clip_len": 15.0
+ },
+ {
+  "day": 58,
+  "song": "Real Tears",
+  "line": "I\u2019m starting to lose the fear of real tears",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-SummerSHeartFinal_02-Real-Tears-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 260.44,
+  "clip_len": 15.0
+ },
+ {
+  "day": 59,
+  "song": "Maybe",
+  "line": "Maybe I was always yours, maybe you were always mine",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-WhenTheLightTurnsSoft_14-Maybe-9-5-25-Master_FINAL_2025-09-06.m4a",
+  "clip_start": 7.2,
+  "clip_len": 13.74
+ },
+ {
+  "day": 60,
+  "song": "Almost Forgot",
+  "line": "Turned on the music, found my favorite song, turned the volume up so I could sing along",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-SummerSHeartFinal_07-Almost-Forgot-Master-5_FINAL_2018-06-27.m4a",
+  "clip_start": 37.06,
+  "clip_len": 15.0
+ },
+ {
+  "day": 61,
+  "song": "Foreign Money",
+  "line": "Your love is a foreign language I\u2019ll never understand",
+  "status": "ok",
+  "score": 90,
+  "file": "WCH-MusicMastersBounces_12-Foreign-Money-2-12-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 74.2,
+  "clip_len": 13.14
+ },
+ {
+  "day": 62,
+  "song": "Dark Moon",
+  "line": "It was a dark moon, a minor chord tune",
+  "status": "ok",
+  "score": 75,
+  "file": "WCH-DarkMoon_02-Dark-Moon-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 201.68,
+  "clip_len": 15.0
+ },
+ {
+  "day": 63,
+  "song": "Lost in Space",
+  "line": "Atoms smashing in the dark, I was paper, you were spark",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-MusicMastersBounces_Lost-in-Space-11-9_FINAL_2021-11-09.m4a",
+  "clip_start": 14.96,
+  "clip_len": 15.0
+ },
+ {
+  "day": 64,
+  "song": "A Dent in the Universe",
+  "line": "Why is the world so filled with darkness when the sky is full of stars?",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-ModernHeartbreak_10-A-Dent-In-The-Universe_FINAL_2024-07-24.mp3",
+  "clip_start": 157.62,
+  "clip_len": 13.56
+ },
+ {
+  "day": 65,
+  "song": "Lie To Me",
+  "line": "Should I lie to you? Should you lie to me?",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_05-Lie-To-Me-2-8-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 110.54,
+  "clip_len": 13.68
+ },
+ {
+  "day": 66,
+  "song": "Superhero",
+  "line": "You cut my heart out with a spoon on a Wednesday night in June",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-DaysOfGold_07-Superhero-Aug-2024-Master_FINAL_2024-08-29.m4a",
+  "clip_start": 6.08,
+  "clip_len": 15.0
+ },
+ {
+  "day": 67,
+  "song": "Silent Street",
+  "line": "Ink on my hands bleeds in the rain",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SilentStreet_03-Silent-Street-v2-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 131.56,
+  "clip_len": 12.04
+ },
+ {
+  "day": 68,
+  "song": "To The Quick",
+  "line": "I memorized a million words, forgot them all when I saw you",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DaysOfGold_09-To-The-Quick-Aug-2024-Master_FINAL_2024-08-27.m4a",
+  "clip_start": 19.24,
+  "clip_len": 15.0
+ },
+ {
+  "day": 69,
+  "song": "Fresh Air",
+  "line": "A thousand miles away I still feel you there, you\u2019re my fresh air",
+  "status": "ok",
+  "score": 90,
+  "file": "WCH-MusicMastersBounces_05-Fresh-Air-FINAL-MASTER-2_FINAL_2026-10-24.m4a",
+  "clip_start": 107.14,
+  "clip_len": 15.0
+ },
+ {
+  "day": 70,
+  "song": "Loosen Up",
+  "line": "Love will remain when everything else has changed",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SilentStreet_08-Loosen-Up-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 228.64,
+  "clip_len": 15.0
+ },
+ {
+  "day": 71,
+  "song": "Something",
+  "line": "Every time I think about how close we came to never",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-MusicMastersBounces_02-Something_FINAL_2026-10-24.m4a",
+  "clip_start": 37.36,
+  "clip_len": 10.94
+ },
+ {
+  "day": 72,
+  "song": "Wildfires",
+  "line": "You never paused to watch wheels turning",
+  "status": "ok",
+  "score": 88,
+  "file": "WCH-MusicMastersBounces_07-Wildfires-1-6-2025-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 26.26,
+  "clip_len": 10.0
+ },
+ {
+  "day": 73,
+  "song": "Lost Time",
+  "line": "I\u2019m standing up straight fixing my tie",
+  "status": "ok",
+  "score": 99,
+  "file": "WCH-MusicMastersBounces_04-Lost-Time-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 65.22,
+  "clip_len": 14.2
+ },
+ {
+  "day": 74,
+  "song": "The Golden Hour",
+  "line": "Woke up east of the Salton sea",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-MusicMastersBounces_The-Golden-Hour-9-6-24-Master_FINAL_2024-09-06.m4a",
+  "clip_start": 4.28,
+  "clip_len": 10.02
+ },
+ {
+  "day": 75,
+  "song": "The Ocean",
+  "line": "There\u2019s no wrong or right in the silent dark night",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_10-The-Ocean-Lockdown-Master-2_FINAL_2021-04-12.m4a",
+  "clip_start": 51.94,
+  "clip_len": 11.5
+ },
+ {
+  "day": 76,
+  "song": "Phantom Limb",
+  "line": "You said you needed time to think about this new mistake",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_03-Phantom-Limb-2-10-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 56.36,
+  "clip_len": 11.88
+ },
+ {
+  "day": 77,
+  "song": "Receiver Blues",
+  "line": "After all is said and done I remain the lonely one",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-SilentStreet_04-Receiver-Blues-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 46.52,
+  "clip_len": 12.16
+ },
+ {
+  "day": 78,
+  "song": "All In",
+  "line": "Every light turns green when you lean in close",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-MusicMastersBounces_02-All-In-FINAL-MASTER_FINAL_2026-10-24.m4a",
+  "clip_start": 29.52,
+  "clip_len": 12.04
+ },
+ {
+  "day": 79,
+  "song": "Love Letters",
+  "line": "Every single moment you are in my arms",
+  "status": "ok",
+  "score": 86,
+  "file": "WCH-WhenTheLightTurnsSoft_07-Love-Letters-9-1-25-Master_FINAL_2025-09-02.m4a",
+  "clip_start": 41.36,
+  "clip_len": 12.66
+ },
+ {
+  "day": 80,
+  "song": "Sweetness",
+  "line": "A vision haunts my dreams your words repeating",
+  "status": "ok",
+  "score": 79,
+  "file": "WCH-BrighterDays2020_05-Sweetness-mastered_FINAL_2018-08-22.m4a",
+  "clip_start": 202.92,
+  "clip_len": 10.12
+ },
+ {
+  "day": 81,
+  "song": "The Heat We Create",
+  "line": "I watch the oceans and the windswept seas places once hidden from me",
+  "status": "ok",
+  "score": 79,
+  "file": "WCH-SilentStreet_02-The-Heat-We-Create-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 109.94,
+  "clip_len": 12.44
+ },
+ {
+  "day": 82,
+  "song": "London Looks Good on You",
+  "line": "You marked an X like it was treasure",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-MusicMastersBounces_02-London-Looks-Good-On-You-V2-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 77.8,
+  "clip_len": 10.0
+ },
+ {
+  "day": 83,
+  "song": "Blank Page",
+  "line": "You read my message said you\u2019ve waited for the day",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-FavoriteSongLP_08-Blank-Page-Monday_FINAL_2026-09-28.m4a",
+  "clip_start": 90.18,
+  "clip_len": 11.34
+ },
+ {
+  "day": 84,
+  "song": "After the Rain",
+  "line": "Our brightest days, after the rain",
+  "status": "ok",
+  "score": 70,
+  "file": "WCH-MusicMastersBounces_05-After-The-Rain-1-19-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 71.56,
+  "clip_len": 15.0
+ },
+ {
+  "day": 85,
+  "song": "Downtown Dream",
+  "line": "The rain beat down on my cold shoulders",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_07-Downtown-Dream-Lockdown-Master-2_FINAL_2021-04-12.m4a",
+  "clip_start": 16.7,
+  "clip_len": 10.0
+ },
+ {
+  "day": 86,
+  "song": "Ballast",
+  "line": "Why do I feel in perfect control?",
+  "status": "ok",
+  "score": 81,
+  "file": "WCH-DarkMoon_09-Ballast-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 125.46,
+  "clip_len": 10.0
+ },
+ {
+  "day": 87,
+  "song": "After Party",
+  "line": "Ink fades slowly from our wrists",
+  "status": "ok",
+  "score": 90,
+  "file": "WCH-FavoriteSongLP_02-After-Party_FINAL_2026-09-28.m4a",
+  "clip_start": 161.06,
+  "clip_len": 10.38
+ },
+ {
+  "day": 88,
+  "song": "The Hardest of All",
+  "line": "It\u2019s okay don\u2019t hold it inside hearts grow a more little stronger with time",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-MusicMastersBounces_04-The-Hardest-of-All-8-6-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 156.92,
+  "clip_len": 15.0
+ },
+ {
+  "day": 89,
+  "song": "Yeah",
+  "line": "They say beauty\u2019s in the eye of the beholder",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-DaysOfGold_05-Yeah_FINAL_2024-09-06.m4a",
+  "clip_start": 60.92,
+  "clip_len": 10.44
+ },
+ {
+  "day": 90,
+  "song": "After Party",
+  "line": "I want this feeling to survive",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-FavoriteSongLP_02-After-Party_FINAL_2026-09-28.m4a",
+  "clip_start": 152.62,
+  "clip_len": 12.46
+ },
+ {
+  "day": 91,
+  "song": "Sparks",
+  "line": "You were the spark that set me alight",
+  "status": "line not found",
+  "score": 64,
+  "file": "WCH-SilentStreet_01-Sparks-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": null,
+  "clip_len": null
+ },
+ {
+  "day": 92,
+  "song": "The Importance of Speed",
+  "line": "It\u2019s only doubt that clouds your mind",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SummerSHeartFinal_04-The-Importance-of-Speed-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 60.44,
+  "clip_len": 12.8
+ },
+ {
+  "day": 93,
+  "song": "Beginners",
+  "line": "Love is a chance love is a game so take my hand begin again",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-MusicMastersBounces_11-Beginners-2-11-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 62.06,
+  "clip_len": 15.0
+ },
+ {
+  "day": 94,
+  "song": "Imagine Her in Love",
+  "line": "She\u2019s in your dreams and laughter in the golden summer light",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_03-Imagine-Her-In-Love-8-6-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 184.24,
+  "clip_len": 14.76
+ },
+ {
+  "day": 95,
+  "song": "Faded",
+  "line": "Now I know I needed you more than you did",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-BrighterDays2020_02-Faded-mastered_FINAL_2018-08-22.m4a",
+  "clip_start": 34.78,
+  "clip_len": 10.56
+ },
+ {
+  "day": 96,
+  "song": "Receiver Blues",
+  "line": "Just a pawn in this cruel game I keep betting all the same",
+  "status": "ok",
+  "score": 92,
+  "file": "WCH-SilentStreet_04-Receiver-Blues-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 32.16,
+  "clip_len": 12.54
+ },
+ {
+  "day": 97,
+  "song": "Something",
+  "line": "Something pulled us back kept the whole thing together",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_02-Something_FINAL_2026-10-24.m4a",
+  "clip_start": 45.32,
+  "clip_len": 11.16
+ },
+ {
+  "day": 98,
+  "song": "Bad Weather",
+  "line": "You pull me closer, reaching for the sun",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_07-Bad-Weather-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 265.44,
+  "clip_len": 13.66
+ },
+ {
+  "day": 99,
+  "song": "After Party",
+  "line": "Don\u2019t let the night end without me",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-FavoriteSongLP_02-After-Party_FINAL_2026-09-28.m4a",
+  "clip_start": 182.28,
+  "clip_len": 10.0
+ },
+ {
+  "day": 100,
+  "song": "Flirt",
+  "line": "I was a loner I kept to the back",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-DaysOfGold_05-Flirt-August-2024-Master_FINAL_2024-08-27.m4a",
+  "clip_start": 65.6,
+  "clip_len": 10.0
+ },
+ {
+  "day": 101,
+  "song": "We Turn to Gold",
+  "line": "Your face smiles softly in between",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_07-We-Turn-To-Gold-1-19-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 252.6,
+  "clip_len": 12.78
+ },
+ {
+  "day": 102,
+  "song": "When We Speak",
+  "line": "Little new arrangements changes in inflection",
+  "status": "ok",
+  "score": 99,
+  "file": "WCH-SummerSHeartFinal_09-When-We-Speak-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 163.24,
+  "clip_len": 15.0
+ },
+ {
+  "day": 103,
+  "song": "Black Coffee",
+  "line": "Each morning I wake where we once laughed",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_03-Black-Coffee-Lockdown-Master-2_FINAL_2021-04-12.m4a",
+  "clip_start": 97.96,
+  "clip_len": 13.5
+ },
+ {
+  "day": 104,
+  "song": "Anywhere You Stand",
+  "line": "I landed at dawn coffee and heartburn",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_01-Anywhere-You-Stand-7-23_FINAL_2026-10-24.m4a",
+  "clip_start": 11.64,
+  "clip_len": 13.2
+ },
+ {
+  "day": 105,
+  "song": "All My Friends Got Famous",
+  "line": "I still close the same bar every night",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-All-My-Friends-Got-Famous-7-8-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 48.02,
+  "clip_len": 10.0
+ },
+ {
+  "day": 106,
+  "song": "All These Broken Things",
+  "line": "I toss them out and feel a little less complete",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_All-These-Broken-Things_FINAL_2026-10-24.m4a",
+  "clip_start": 28.0,
+  "clip_len": 11.48
+ },
+ {
+  "day": 107,
+  "song": "Crush on You",
+  "line": "Walked past yours at exactly three",
+  "status": "ok",
+  "score": 79,
+  "file": "WCH-MusicMastersBounces_03-Crush-On-You-7-18_FINAL_2026-10-24.m4a",
+  "clip_start": 54.58,
+  "clip_len": 10.0
+ },
+ {
+  "day": 108,
+  "song": "Stars May Fall",
+  "line": "A tired old story that you still love me",
+  "status": "ok",
+  "score": 85,
+  "file": "WCH-TheCityTheSea_01-Stars-May-Fall-Lockdown-Master-2_FINAL_2021-04-14.m4a",
+  "clip_start": 116.36,
+  "clip_len": 10.0
+ },
+ {
+  "day": 109,
+  "song": "Come September",
+  "line": "It was a melancholy May a string of truly forgettable days",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-DarkMoon_07-Come-September-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 3.42,
+  "clip_len": 13.94
+ },
+ {
+  "day": 110,
+  "song": "Natural",
+  "line": "Hey you walking down the avenue",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_08-Natural-Lockdown-Master-2_FINAL_2021-04-12.m4a",
+  "clip_start": 0.0,
+  "clip_len": 10.0
+ },
+ {
+  "day": 111,
+  "song": "All In",
+  "line": "You flip my switch my circuits heat",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-MusicMastersBounces_02-All-In-FINAL-MASTER_FINAL_2026-10-24.m4a",
+  "clip_start": 16.72,
+  "clip_len": 10.68
+ },
+ {
+  "day": 112,
+  "song": "Come September",
+  "line": "July oh why why why do you torture me like this",
+  "status": "ok",
+  "score": 89,
+  "file": "WCH-DarkMoon_07-Come-September-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 35.66,
+  "clip_len": 12.96
+ },
+ {
+  "day": 113,
+  "song": "Days of Gold",
+  "line": "Your last words proved you never really cared",
+  "status": "ok",
+  "score": 76,
+  "file": "WCH-DaysOfGold_01-Days-of-Gold-V4-Aug-2024-Master_FINAL_2024-08-28.m4a",
+  "clip_start": 203.4,
+  "clip_len": 12.66
+ },
+ {
+  "day": 114,
+  "song": "Fault Lines",
+  "line": "Feel the wind burning your face",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-SummersHeart_06-Fault-Lines-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 160.82,
+  "clip_len": 12.0
+ },
+ {
+  "day": 115,
+  "song": "All These Broken Things",
+  "line": "I rip the pages throw the book out to the street",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_All-These-Broken-Things_FINAL_2026-10-24.m4a",
+  "clip_start": 35.72,
+  "clip_len": 11.64
+ },
+ {
+  "day": 116,
+  "song": "The Golden Hour",
+  "line": "My will is stronger than before",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_The-Golden-Hour-9-6-24-Master_FINAL_2024-09-06.m4a",
+  "clip_start": 47.56,
+  "clip_len": 11.06
+ },
+ {
+  "day": 117,
+  "song": "Open",
+  "line": "The sky is filled with stars I\u2019m not sleeping in my bed",
+  "status": "ok",
+  "score": 90,
+  "file": "WCH-SummersHeart_10-Open-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 4.16,
+  "clip_len": 13.04
+ },
+ {
+  "day": 118,
+  "song": "We Talk of Shapes",
+  "line": "We talk of shapes you\u2019re my north star",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_11-We-Talk-of-Shapes-Lockdown-Master-3_FINAL_2021-04-14.m4a",
+  "clip_start": 192.68,
+  "clip_len": 15.0
+ },
+ {
+  "day": 119,
+  "song": "Texas",
+  "line": "Sweet as the sugar that\u2019s on my tongue",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-SummerSHeartFinal_03-Texas-Master-3-no-solo_FINAL_2018-06-27.m4a",
+  "clip_start": 23.3,
+  "clip_len": 10.0
+ },
+ {
+  "day": 120,
+  "song": "Superstar",
+  "line": "Burning up my western sky every time we say goodbye",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-MusicMastersBounces_01-Superstar_FINAL_2026-10-24.m4a",
+  "clip_start": 109.87,
+  "clip_len": 11.49
+ },
+ {
+  "day": 121,
+  "song": "Thin Air",
+  "line": "Colors of the past fade gently into black",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_02-Thin-Air-11-26-2024-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 24.92,
+  "clip_len": 12.88
+ },
+ {
+  "day": 122,
+  "song": "Sirens",
+  "line": "I could never resist you I can\u2019t hold out for long",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-ModernHeartbreak_02-Sirens-July-2024-Master_FINAL_2024-07-22.m4a",
+  "clip_start": 139.26,
+  "clip_len": 15.0
+ },
+ {
+  "day": 123,
+  "song": "Faded Polaroid",
+  "line": "As dawn arrives your perfume fades away",
+  "status": "ok",
+  "score": 73,
+  "file": "WCH-MusicMastersBounces_02-Faded-Polaroid-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 229.7,
+  "clip_len": 10.0
+ },
+ {
+  "day": 124,
+  "song": "All Point West",
+  "line": "I said I had a lot to think about",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-All-Point-West-11-26-2024-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 10.32,
+  "clip_len": 11.68
+ },
+ {
+  "day": 125,
+  "song": "Blank Page",
+  "line": "Sent you a message \u201cWould you like to meet today?\u201d",
+  "status": "ok",
+  "score": 92,
+  "file": "WCH-FavoriteSongLP_08-Blank-Page-Monday_FINAL_2026-09-28.m4a",
+  "clip_start": 140.34,
+  "clip_len": 11.06
+ },
+ {
+  "day": 126,
+  "song": "The Choir",
+  "line": "An offering for those who go before the voices know the score",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-SilentStreet_07-The-Choir-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 113.5,
+  "clip_len": 12.84
+ },
+ {
+  "day": 127,
+  "song": "Blank Page",
+  "line": "Searching for the light the screens fade out",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-FavoriteSongLP_08-Blank-Page-Monday_FINAL_2026-09-28.m4a",
+  "clip_start": 170.7,
+  "clip_len": 13.82
+ },
+ {
+  "day": 128,
+  "song": "Borrowed Coat",
+  "line": "By empty thoughts I can\u2019t erase",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-Borrowed-Coat-FINAL-MASTER-1_FINAL_2026-10-24.m4a",
+  "clip_start": 117.1,
+  "clip_len": 10.06
+ },
+ {
+  "day": 129,
+  "song": "Faded Polaroid",
+  "line": "You said it was only a few months apart",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_02-Faded-Polaroid-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 41.36,
+  "clip_len": 10.0
+ },
+ {
+  "day": 130,
+  "song": "Your Life",
+  "line": "Letting go is the only way to heal",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_08-Your-Life-11-26-2024-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 188.98,
+  "clip_len": 10.5
+ },
+ {
+  "day": 131,
+  "song": "Sea of My Heart",
+  "line": "As everything moves faster and still faster",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DarkMoon_06-Sea-of-My-Heart-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 92.72,
+  "clip_len": 12.88
+ },
+ {
+  "day": 132,
+  "song": "We Turn to Gold",
+  "line": "You pull me close, I feel you near",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-MusicMastersBounces_07-We-Turn-To-Gold-1-19-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 116.86,
+  "clip_len": 14.16
+ },
+ {
+  "day": 133,
+  "song": "Fault Lines",
+  "line": "In the fault lines I went searching for a clue",
+  "status": "ok",
+  "score": 88,
+  "file": "WCH-SummersHeart_06-Fault-Lines-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 85.76,
+  "clip_len": 11.82
+ },
+ {
+  "day": 134,
+  "song": "Sparks",
+  "line": "These sparks are turning into flames I burn for you again",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-SilentStreet_01-Sparks-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 147.72,
+  "clip_len": 15.0
+ },
+ {
+  "day": 135,
+  "song": "Sleeping In",
+  "line": "Let the sunlight fill the room burn off marine layer",
+  "status": "ok",
+  "score": 88,
+  "file": "WCH-MusicMastersBounces_Sleeping-In-11-9-Master_FINAL_2021-11-09.m4a",
+  "clip_start": 77.36,
+  "clip_len": 12.78
+ },
+ {
+  "day": 136,
+  "song": "Superstar",
+  "line": "I know you\u2019re the only one who matters",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_01-Superstar_FINAL_2026-10-24.m4a",
+  "clip_start": 18.58,
+  "clip_len": 10.6
+ },
+ {
+  "day": 137,
+  "song": "The Importance of Speed",
+  "line": "Cold empty sheets and nowhere else to grow",
+  "status": "ok",
+  "score": 85,
+  "file": "WCH-SummerSHeartFinal_04-The-Importance-of-Speed-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 35.0,
+  "clip_len": 12.22
+ },
+ {
+  "day": 138,
+  "song": "Yeah",
+  "line": "I don\u2019t believe in push and pull",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DaysOfGold_05-Yeah_FINAL_2024-09-06.m4a",
+  "clip_start": 153.04,
+  "clip_len": 10.0
+ },
+ {
+  "day": 139,
+  "song": "Moonlight, Midnight",
+  "line": "Grab a table and talk all night",
+  "status": "line not found",
+  "score": 56,
+  "file": "WCH-AudioFiles_08-Moonlight-Midnight_FINAL_2019-04-24.m4a",
+  "clip_start": null,
+  "clip_len": null
+ },
+ {
+  "day": 140,
+  "song": "Crush on You",
+  "line": "I\u2019ve got a crush on you, is that news to you?",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_03-Crush-On-You-7-18_FINAL_2026-10-24.m4a",
+  "clip_start": 80.48,
+  "clip_len": 10.94
+ },
+ {
+  "day": 141,
+  "song": "The Heat We Create",
+  "line": "I shared your sadness when we first met",
+  "status": "ok",
+  "score": 85,
+  "file": "WCH-SilentStreet_02-The-Heat-We-Create-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 13.06,
+  "clip_len": 10.0
+ },
+ {
+  "day": 142,
+  "song": "Foreign Money",
+  "line": "I promised you I\u2019d take it slowly you always said it wouldn\u2019t last",
+  "status": "ok",
+  "score": 98,
+  "file": "WCH-MusicMastersBounces_12-Foreign-Money-2-12-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 50.74,
+  "clip_len": 15.0
+ },
+ {
+  "day": 143,
+  "song": "Beautiful Once",
+  "line": "Your name haunts my western sky a constellation fixed in me",
+  "status": "ok",
+  "score": 86,
+  "file": "WCH-MusicMastersBounces_06-Beautiful-Once_FINAL_2026-10-24.m4a",
+  "clip_start": 28.66,
+  "clip_len": 15.0
+ },
+ {
+  "day": 144,
+  "song": "These Wings",
+  "line": "Day in the park night at our beach",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SummersHeart_08-These-Wings-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 72.4,
+  "clip_len": 14.54
+ },
+ {
+  "day": 145,
+  "song": "Dark Room",
+  "line": "I spend my days in a dark room a prison I design",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-GoldenHour_09-Dark-Room_FINAL_2025-01-27.m4a",
+  "clip_start": 53.1,
+  "clip_len": 11.14
+ },
+ {
+  "day": 146,
+  "song": "One Highway",
+  "line": "Up the coast with arms outstretched",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-SummersHeart_01-One-Highway-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 116.78,
+  "clip_len": 10.9
+ },
+ {
+  "day": 147,
+  "song": "The Choir",
+  "line": "All of my enemies gather as I dream",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-SilentStreet_07-The-Choir-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 58.66,
+  "clip_len": 10.0
+ },
+ {
+  "day": 148,
+  "song": "Sweetness",
+  "line": "The damage has been done I thought you were the one",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-BrighterDays2020_05-Sweetness-mastered_FINAL_2018-08-22.m4a",
+  "clip_start": 261.72,
+  "clip_len": 14.68
+ },
+ {
+  "day": 149,
+  "song": "Borrowed Coat",
+  "line": "Lost before they found their way",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-Borrowed-Coat-FINAL-MASTER-1_FINAL_2026-10-24.m4a",
+  "clip_start": 65.68,
+  "clip_len": 13.86
+ },
+ {
+  "day": 150,
+  "song": "Loosen Up",
+  "line": "Strong as we may seem we fall apart at every seam",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-SilentStreet_08-Loosen-Up-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 144.48,
+  "clip_len": 15.0
+ },
+ {
+  "day": 151,
+  "song": "The Future",
+  "line": "We\u2019ve traveled roads that turned to dust",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-MusicMastersBounces_07-The-Future-FINAL-MASTER_v01_2026-10-24.m4a",
+  "clip_start": 5.98,
+  "clip_len": 10.0
+ },
+ {
+  "day": 152,
+  "song": "Moonlight, Midnight",
+  "line": "The stars dance so lightly on the waves",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-AudioFiles_08-Moonlight-Midnight_FINAL_2019-04-24.m4a",
+  "clip_start": 30.1,
+  "clip_len": 14.63
+ },
+ {
+  "day": 153,
+  "song": "Imagine Her in Love",
+  "line": "The moment feels like magic so you never stop to breathe",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-MusicMastersBounces_03-Imagine-Her-In-Love-8-6-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 229.18,
+  "clip_len": 14.54
+ },
+ {
+  "day": 154,
+  "song": "False Prophet",
+  "line": "My heart feels jealous and jaded",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-MusicMastersBounces_01-False-Prophet-2-11-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 105.5,
+  "clip_len": 10.0
+ },
+ {
+  "day": 155,
+  "song": "Avalanche",
+  "line": "You were the storm you swept me away",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-BrighterDays2020_01-Avalanche-mastered_FINAL_2018-08-22.m4a",
+  "clip_start": 117.44,
+  "clip_len": 10.84
+ },
+ {
+  "day": 156,
+  "song": "Phantom Limb",
+  "line": "I fumbled with my passcode hoping that you might have called",
+  "status": "ok",
+  "score": 98,
+  "file": "WCH-MusicMastersBounces_03-Phantom-Limb-2-10-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 18.0,
+  "clip_len": 13.48
+ },
+ {
+  "day": 157,
+  "song": "Something",
+  "line": "Every time I think about how close we came to gone",
+  "status": "ok",
+  "score": 92,
+  "file": "WCH-MusicMastersBounces_02-Something_FINAL_2026-10-24.m4a",
+  "clip_start": 37.36,
+  "clip_len": 10.94
+ },
+ {
+  "day": 158,
+  "song": "Little Earthquakes",
+  "line": "I feel lost in another tailspin",
+  "status": "ok",
+  "score": 82,
+  "file": "WCH-MusicMastersBounces_Little-Earthquakes-11-10-2_FINAL_2021-11-10.m4a",
+  "clip_start": 10.66,
+  "clip_len": 12.82
+ },
+ {
+  "day": 159,
+  "song": "Imagine Her in Love",
+  "line": "You\u2019re afraid to spill your heart until the timing\u2019s right",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-MusicMastersBounces_03-Imagine-Her-In-Love-8-6-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 93.34,
+  "clip_len": 13.02
+ },
+ {
+  "day": 160,
+  "song": "Superstar",
+  "line": "Since you arrived, I\u2019ve been remade",
+  "status": "ok",
+  "score": 89,
+  "file": "WCH-MusicMastersBounces_01-Superstar_FINAL_2026-10-24.m4a",
+  "clip_start": 78.3,
+  "clip_len": 10.0
+ },
+ {
+  "day": 161,
+  "song": "Natural",
+  "line": "I guess it don\u2019t matter anyway",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_08-Natural-Lockdown-Master-2_FINAL_2021-04-12.m4a",
+  "clip_start": 95.42,
+  "clip_len": 10.02
+ },
+ {
+  "day": 162,
+  "song": "Fresh Air",
+  "line": "Counting down to another brand new year but you\u2019re not here",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_05-Fresh-Air-FINAL-MASTER-2_FINAL_2026-10-24.m4a",
+  "clip_start": 37.46,
+  "clip_len": 15.0
+ },
+ {
+  "day": 163,
+  "song": "Receiver Blues",
+  "line": "With guilt I\u2019m neither owed or due",
+  "status": "ok",
+  "score": 79,
+  "file": "WCH-SilentStreet_04-Receiver-Blues-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 152.16,
+  "clip_len": 10.0
+ },
+ {
+  "day": 164,
+  "song": "The Songs You Sing",
+  "line": "I broke all my rules tonight my resolutions fall apart",
+  "status": "ok",
+  "score": 99,
+  "file": "WCH-MusicMastersBounces_04-The-Songs-You-Sing-2-8-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 109.78,
+  "clip_len": 15.0
+ },
+ {
+  "day": 165,
+  "song": "Black Bird",
+  "line": "Turned left past a corner store full of things I can\u2019t afford",
+  "status": "ok",
+  "score": 98,
+  "file": "WCH-DarkMoon_10-Black-Bird-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 29.66,
+  "clip_len": 15.0
+ },
+ {
+  "day": 166,
+  "song": "Disco",
+  "line": "Everything your heart wants it to be",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_02-Disco-Lockdown-Master_FINAL_2021-04-12.m4a",
+  "clip_start": 134.48,
+  "clip_len": 11.32
+ },
+ {
+  "day": 167,
+  "song": "The Ghost of You",
+  "line": "I long to be on holiday at peace",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-DarkMoon_01-The-Ghost-of-You-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 95.74,
+  "clip_len": 12.3
+ },
+ {
+  "day": 168,
+  "song": "Phantom Limb",
+  "line": "I had the sinking feeling that we were though",
+  "status": "ok",
+  "score": 90,
+  "file": "WCH-MusicMastersBounces_03-Phantom-Limb-2-10-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 139.1,
+  "clip_len": 10.6
+ },
+ {
+  "day": 169,
+  "song": "We Talk of Shapes",
+  "line": "We talk of shapes you are the sand",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_11-We-Talk-of-Shapes-Lockdown-Master-3_FINAL_2021-04-14.m4a",
+  "clip_start": 68.94,
+  "clip_len": 15.0
+ },
+ {
+  "day": 170,
+  "song": "Barcelona",
+  "line": "Taxiing to the gate Exhausted and running late",
+  "status": "ok",
+  "score": 77,
+  "file": "WCH-MusicMastersBounces_10-Barcelona-1-6-2025-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 253.8,
+  "clip_len": 10.74
+ },
+ {
+  "day": 171,
+  "song": "These Wings",
+  "line": "My head is light I can hardly breathe",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SummersHeart_08-These-Wings-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 52.62,
+  "clip_len": 12.98
+ },
+ {
+  "day": 172,
+  "song": "Sea of My Heart",
+  "line": "My feelings for you are no longer hidden",
+  "status": "line not found",
+  "score": 55,
+  "file": "WCH-DarkMoon_06-Sea-of-My-Heart-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": null,
+  "clip_len": null
+ },
+ {
+  "day": 173,
+  "song": "Dark Room",
+  "line": "The future is a passport I use to escape",
+  "status": "ok",
+  "score": 88,
+  "file": "WCH-GoldenHour_09-Dark-Room_FINAL_2025-01-27.m4a",
+  "clip_start": 171.92,
+  "clip_len": 11.88
+ },
+ {
+  "day": 174,
+  "song": "Star",
+  "line": "A guiding light away from dark",
+  "status": "ok",
+  "score": 86,
+  "file": "WCH-DaysOfGold_02-Star-Aug-2024-Master_FINAL_2024-08-28.m4a",
+  "clip_start": 57.88,
+  "clip_len": 10.0
+ },
+ {
+  "day": 175,
+  "song": "A Dent in the Universe",
+  "line": "I tried the climb your highest mountain I tried to swim your wildest sea.",
+  "status": "ok",
+  "score": 98,
+  "file": "WCH-ModernHeartbreak_10-A-Dent-In-The-Universe_FINAL_2024-07-24.mp3",
+  "clip_start": 98.22,
+  "clip_len": 15.0
+ },
+ {
+  "day": 176,
+  "song": "To the Quick",
+  "line": "You\u2019ve had a pull on me like a magnet moves thru air",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-DaysOfGold_09-To-The-Quick-Aug-2024-Master_FINAL_2024-08-27.m4a",
+  "clip_start": 313.88,
+  "clip_len": 14.16
+ },
+ {
+  "day": 177,
+  "song": "Painted Lines",
+  "line": "All sad cliches and wasted trips",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SilentStreet_06-Painted-Lines-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 48.96,
+  "clip_len": 15.0
+ },
+ {
+  "day": 178,
+  "song": "Superstar",
+  "line": "I don\u2019t wanna come down tonight",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_01-Superstar_FINAL_2026-10-24.m4a",
+  "clip_start": 115.86,
+  "clip_len": 10.0
+ },
+ {
+  "day": 179,
+  "song": "Missing Piece",
+  "line": "The noises in the woodshed shadows dancing in moonlight",
+  "status": "ok",
+  "score": 98,
+  "file": "WCH-MusicMastersBounces_07-Missing-Piece-8-13-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 17.84,
+  "clip_len": 13.04
+ },
+ {
+  "day": 180,
+  "song": "All My Friends Got Famous",
+  "line": "Sarah\u2019s got an album, it\u2019s on every chart",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-All-My-Friends-Got-Famous-7-8-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 58.52,
+  "clip_len": 10.0
+ },
+ {
+  "day": 181,
+  "song": "Beginners",
+  "line": "Light every candle fill the room with light",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_11-Beginners-2-11-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 197.46,
+  "clip_len": 12.84
+ },
+ {
+  "day": 182,
+  "song": "London Looks Good on You",
+  "line": "You sent a map with circles drawn",
+  "status": "line not found",
+  "score": 59,
+  "file": "WCH-MusicMastersBounces_02-London-Looks-Good-On-You-V2-Master_FINAL_2026-10-24.m4a",
+  "clip_start": null,
+  "clip_len": null
+ },
+ {
+  "day": 183,
+  "song": "Call the Saints",
+  "line": "You were a restless wave I was a sinking stone",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_09-Call-The-Saints-2-8-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 55.58,
+  "clip_len": 14.96
+ },
+ {
+  "day": 184,
+  "song": "A Sea of Silence",
+  "line": "A rogue wave swept you away the ocean taught me to be brave",
+  "status": "ok",
+  "score": 79,
+  "file": "WCH-MusicMastersBounces_A-Sea-of-Silence_v01_2026-10-24.m4a",
+  "clip_start": 127.9,
+  "clip_len": 15.0
+ },
+ {
+  "day": 185,
+  "song": "Last December",
+  "line": "My mind drifts back to the first day we met when everything felt right",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-ModernHeartbreak_01-Last-December-New-Intro-Master-9-8-2023_FINAL_2023-09-08.m4a",
+  "clip_start": 36.44,
+  "clip_len": 12.58
+ },
+ {
+  "day": 186,
+  "song": "For a Girl",
+  "line": "I\u2019m not sure she even noticed me I just know how much that hurts",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_02-For-A-Girl-8-13-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 21.9,
+  "clip_len": 14.44
+ },
+ {
+  "day": 187,
+  "song": "Bad Weather",
+  "line": "My walls came down, ground gives way",
+  "status": "ok",
+  "score": 84,
+  "file": "WCH-MusicMastersBounces_07-Bad-Weather-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 67.16,
+  "clip_len": 13.94
+ },
+ {
+  "day": 188,
+  "song": "All These Broken Things",
+  "line": "Each night we speak you advance I retreat",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-MusicMastersBounces_All-These-Broken-Things_FINAL_2026-10-24.m4a",
+  "clip_start": 103.44,
+  "clip_len": 15.0
+ },
+ {
+  "day": 189,
+  "song": "The Heat We Create",
+  "line": "Our lights form a soft white glow tires move across an open road",
+  "status": "ok",
+  "score": 89,
+  "file": "WCH-SilentStreet_02-The-Heat-We-Create-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 29.42,
+  "clip_len": 12.9
+ },
+ {
+  "day": 190,
+  "song": "The Importance of Speed",
+  "line": "There\u2019s a way that you walk when you\u2019re afraid",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SummerSHeartFinal_04-The-Importance-of-Speed-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 9.82,
+  "clip_len": 12.12
+ },
+ {
+  "day": 191,
+  "song": "Lost",
+  "line": "Staring into rain clouds anything to stay awake",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_04-Lost-Lockdown-Master-2_FINAL_2021-04-14.m4a",
+  "clip_start": 145.5,
+  "clip_len": 14.2
+ },
+ {
+  "day": 192,
+  "song": "Midnight Star",
+  "line": "Now every moment I\u2019m in the dark",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_05-Midnight-Star-8-15-25-Master_v02_2026-10-24.m4a",
+  "clip_start": 19.84,
+  "clip_len": 10.0
+ },
+ {
+  "day": 193,
+  "song": "Faded Polaroid",
+  "line": "You said it was only a few weeks",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_02-Faded-Polaroid-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 71.36,
+  "clip_len": 10.0
+ },
+ {
+  "day": 194,
+  "song": "Disco",
+  "line": "Met you in a dark and empty hall",
+  "status": "line not found",
+  "score": 51,
+  "file": "WCH-TheCityTheSea_02-Disco-Lockdown-Master_FINAL_2021-04-12.m4a",
+  "clip_start": null,
+  "clip_len": null
+ },
+ {
+  "day": 195,
+  "song": "We Turn to Gold",
+  "line": "You are the heartbeat beneath my skin",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_07-We-Turn-To-Gold-1-19-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 171.32,
+  "clip_len": 12.8
+ },
+ {
+  "day": 196,
+  "song": "Imagine Her in Love",
+  "line": "She\u2019s in your head all morning but that\u2019s all you have",
+  "status": "ok",
+  "score": 90,
+  "file": "WCH-MusicMastersBounces_03-Imagine-Her-In-Love-8-6-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 19.14,
+  "clip_len": 12.7
+ },
+ {
+  "day": 197,
+  "song": "Little Earthquakes",
+  "line": "I know I\u2019ll never change your mind, I\u2019ve tried",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_Little-Earthquakes-11-10-2_FINAL_2021-11-10.m4a",
+  "clip_start": 44.9,
+  "clip_len": 12.56
+ },
+ {
+  "day": 198,
+  "song": "The Other Man",
+  "line": "I stare at your photograph all evening for a laugh",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DarkMoon_05-The-Other-Man-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 68.12,
+  "clip_len": 15.0
+ },
+ {
+  "day": 199,
+  "song": "Sweetest Thing",
+  "line": "Collapse in your sun drenched arms once more",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-DaysOfGold_07-Sweetest-Thing-V2-Aug-2024-Master_FINAL_2024-08-27.m4a",
+  "clip_start": 236.74,
+  "clip_len": 11.1
+ },
+ {
+  "day": 200,
+  "song": "Lost in Los Angeles",
+  "line": "Ice cream melts in summer sun palm trees whisper as they sway",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-LostTime_05-Lost-In-Los-Angeles-FINAL-Master-1-27-26_FINAL_2026-01-29.m4a",
+  "clip_start": 21.72,
+  "clip_len": 15.0
+ },
+ {
+  "day": 201,
+  "song": "Nothing Lasts Forever",
+  "line": "Nothing lasts forever so we let it drop",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SlowBurnEP_05-Nothing-Lasts-Forever-7-20_FINAL_2026-07-20.m4a",
+  "clip_start": 83.96,
+  "clip_len": 10.0
+ },
+ {
+  "day": 202,
+  "song": "Lost Time",
+  "line": "I love the way that you said goodnight",
+  "status": "ok",
+  "score": 89,
+  "file": "WCH-MusicMastersBounces_04-Lost-Time-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 27.82,
+  "clip_len": 10.2
+ },
+ {
+  "day": 203,
+  "song": "Superhero",
+  "line": "You cut my heart out and it\u2019s true",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-DaysOfGold_07-Superhero-Aug-2024-Master_FINAL_2024-08-29.m4a",
+  "clip_start": 141.22,
+  "clip_len": 10.0
+ },
+ {
+  "day": 204,
+  "song": "Silent Street",
+  "line": "No conversation, no way to break the ice",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SilentStreet_03-Silent-Street-v2-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 68.24,
+  "clip_len": 12.46
+ },
+ {
+  "day": 205,
+  "song": "Loud Love",
+  "line": "Drifting closer to you lost in time",
+  "status": "line not found",
+  "score": 0,
+  "file": "WCH-WhenTheLightTurnsSoft_04-Loud-Love-8-25-25-Master_FINAL_2025-09-09.mp3",
+  "clip_start": null,
+  "clip_len": null
+ },
+ {
+  "day": 206,
+  "song": "My Heart is Burning",
+  "line": "I don\u2019t see a future don\u2019t even trust my heart",
+  "status": "ok",
+  "score": 98,
+  "file": "WCH-MusicMastersBounces_05-My-Heart-Is-Burning-1-6-2025-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 167.22,
+  "clip_len": 10.0
+ },
+ {
+  "day": 207,
+  "song": "Superstar",
+  "line": "You walk in the lights all shatter",
+  "status": "ok",
+  "score": 87,
+  "file": "WCH-MusicMastersBounces_01-Superstar_FINAL_2026-10-24.m4a",
+  "clip_start": 10.36,
+  "clip_len": 10.86
+ },
+ {
+  "day": 208,
+  "song": "The Hours",
+  "line": "These are moments I\u2019ll keep forever",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-FavoriteSongLP_03-The-Hours-Master-6-13-26_FINAL_2026-06-13.m4a",
+  "clip_start": 177.12,
+  "clip_len": 11.2
+ },
+ {
+  "day": 209,
+  "song": "Wildfires",
+  "line": "I feel untethered drowning in a dream",
+  "status": "line not found",
+  "score": 64,
+  "file": "WCH-MusicMastersBounces_07-Wildfires-1-6-2025-Master_FINAL_2026-10-24.m4a",
+  "clip_start": null,
+  "clip_len": null
+ },
+ {
+  "day": 210,
+  "song": "The Choir",
+  "line": "All sing sad songs of woe hymns for people I don\u2019t know",
+  "status": "ok",
+  "score": 92,
+  "file": "WCH-SilentStreet_07-The-Choir-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 65.12,
+  "clip_len": 12.58
+ },
+ {
+  "day": 211,
+  "song": "Superhero",
+  "line": "I guess I\u2019m not the man you need no",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DaysOfGold_07-Superhero-Aug-2024-Master_FINAL_2024-08-29.m4a",
+  "clip_start": 45.66,
+  "clip_len": 10.06
+ },
+ {
+  "day": 212,
+  "song": "Sweet Thursday",
+  "line": "I\u2019ve followed all those paths, slept in those strange beds",
+  "status": "ok",
+  "score": 79,
+  "file": "WCH-SilentStreet_10-Sweet-Thursday-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 90.94,
+  "clip_len": 14.98
+ },
+ {
+  "day": 213,
+  "song": "A Dent in the Universe",
+  "line": "You are not a distant memory you\u2019re the ache in my heart",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-ModernHeartbreak_10-A-Dent-In-The-Universe_FINAL_2024-07-24.mp3",
+  "clip_start": 70.16,
+  "clip_len": 13.22
+ },
+ {
+  "day": 214,
+  "song": "The Heat We Create",
+  "line": "You\u2019ve never known a safer place to store your heart away",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SilentStreet_02-The-Heat-We-Create-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 77.2,
+  "clip_len": 12.52
+ },
+ {
+  "day": 215,
+  "song": "Crush on You",
+  "line": "Said I was checking on a friend of mine",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_03-Crush-On-You-7-18_FINAL_2026-10-24.m4a",
+  "clip_start": 19.18,
+  "clip_len": 10.0
+ },
+ {
+  "day": 216,
+  "song": "All These Broken Things",
+  "line": "A life examined thought by thought",
+  "status": "ok",
+  "score": 84,
+  "file": "WCH-MusicMastersBounces_All-These-Broken-Things_FINAL_2026-10-24.m4a",
+  "clip_start": 74.28,
+  "clip_len": 10.0
+ },
+ {
+  "day": 217,
+  "song": "Faded Polaroid",
+  "line": "Driving you to the airport broke my heart",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_02-Faded-Polaroid-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 31.02,
+  "clip_len": 15.0
+ },
+ {
+  "day": 218,
+  "song": "Sirens",
+  "line": "Your voice softly whispers as I\u2019m falling asleep",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-ModernHeartbreak_02-Sirens-July-2024-Master_FINAL_2024-07-22.m4a",
+  "clip_start": 67.38,
+  "clip_len": 13.28
+ },
+ {
+  "day": 219,
+  "song": "Beginners",
+  "line": "Two open hearts yours and mine we try to leave the past behind",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-MusicMastersBounces_11-Beginners-2-11-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 20.66,
+  "clip_len": 15.0
+ },
+ {
+  "day": 220,
+  "song": "The Ocean",
+  "line": "Oh last night I was wandering near the waves on my own",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_10-The-Ocean-Lockdown-Master-2_FINAL_2021-04-12.m4a",
+  "clip_start": 67.2,
+  "clip_len": 15.0
+ },
+ {
+  "day": 221,
+  "song": "The Crown",
+  "line": "I try to catch my breath but it\u2019s already gone",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_02-The-Crown-2-10-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 31.48,
+  "clip_len": 10.0
+ },
+ {
+  "day": 222,
+  "song": "Crush on You",
+  "line": "You hide it so well I can barely tell",
+  "status": "ok",
+  "score": 83,
+  "file": "WCH-MusicMastersBounces_03-Crush-On-You-7-18_FINAL_2026-10-24.m4a",
+  "clip_start": 73.9,
+  "clip_len": 11.3
+ },
+ {
+  "day": 223,
+  "song": "Real Tears",
+  "line": "I flew all this way ror real tears",
+  "status": "ok",
+  "score": 75,
+  "file": "WCH-SummerSHeartFinal_02-Real-Tears-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 67.78,
+  "clip_len": 15.0
+ },
+ {
+  "day": 224,
+  "song": "Hourglass",
+  "line": "All of the questions I never thought to ask",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_08-Hourglass-2-10-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 174.78,
+  "clip_len": 14.08
+ },
+ {
+  "day": 225,
+  "song": "To the Quick",
+  "line": "The arrow played its part your perfect aim did all the rest",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-DaysOfGold_09-To-The-Quick-Aug-2024-Master_FINAL_2024-08-27.m4a",
+  "clip_start": 99.19,
+  "clip_len": 14.65
+ },
+ {
+  "day": 226,
+  "song": "Love Letters",
+  "line": "Simple little things memories and charms",
+  "status": "ok",
+  "score": 92,
+  "file": "WCH-WhenTheLightTurnsSoft_07-Love-Letters-9-1-25-Master_FINAL_2025-09-02.m4a",
+  "clip_start": 34.12,
+  "clip_len": 12.74
+ },
+ {
+  "day": 227,
+  "song": "Flirt",
+  "line": "It\u2019s ok to flirt flirt until it hurts",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-DaysOfGold_05-Flirt-August-2024-Master_FINAL_2024-08-27.m4a",
+  "clip_start": 176.8,
+  "clip_len": 15.0
+ },
+ {
+  "day": 228,
+  "song": "Bad Weather",
+  "line": "The coast isn\u2019t clear, skies aren\u2019t blue",
+  "status": "line not found",
+  "score": 50,
+  "file": "WCH-MusicMastersBounces_07-Bad-Weather-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": null,
+  "clip_len": null
+ },
+ {
+  "day": 229,
+  "song": "Sleeping In",
+  "line": "I\u2019ve been sleeping in staying safe and quiet",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-MusicMastersBounces_Sleeping-In-11-9-Master_FINAL_2021-11-09.m4a",
+  "clip_start": 22.22,
+  "clip_len": 14.04
+ },
+ {
+  "day": 230,
+  "song": "Imagine Her in Love",
+  "line": "You pause to gather all your tangled thoughts",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_03-Imagine-Her-In-Love-8-6-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 102.5,
+  "clip_len": 13.5
+ },
+ {
+  "day": 231,
+  "song": "Don\u2019t Want to Fall",
+  "line": "Flirting with me over the phone",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-DaysOfGold_02-Dont-Want-to-Fall-Aug-2024-Master_FINAL_2024-08-29.m4a",
+  "clip_start": 69.04,
+  "clip_len": 10.0
+ },
+ {
+  "day": 232,
+  "song": "Last December",
+  "line": "Snow on the street melting under my feet the wind is blowing hard",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-ModernHeartbreak_01-Last-December-New-Intro-Master-9-8-2023_FINAL_2023-09-08.m4a",
+  "clip_start": 172.86,
+  "clip_len": 12.36
+ },
+ {
+  "day": 233,
+  "song": "Blank Page",
+  "line": "I read your message said I\u2019ve waited for the day",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-FavoriteSongLP_08-Blank-Page-Monday_FINAL_2026-09-28.m4a",
+  "clip_start": 154.6,
+  "clip_len": 11.48
+ },
+ {
+  "day": 234,
+  "song": "To the Quick",
+  "line": "My nails are bitten to the quick my broken heart is on display",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DaysOfGold_09-To-The-Quick-Aug-2024-Master_FINAL_2024-08-27.m4a",
+  "clip_start": 60.7,
+  "clip_len": 14.92
+ },
+ {
+  "day": 235,
+  "song": "Blank Page",
+  "line": "It\u2019s just you and I no more goodbyes",
+  "status": "ok",
+  "score": 82,
+  "file": "WCH-FavoriteSongLP_08-Blank-Page-Monday_FINAL_2026-09-28.m4a",
+  "clip_start": 179.02,
+  "clip_len": 13.8
+ },
+ {
+  "day": 236,
+  "song": "It\u2019s Time",
+  "line": "The spaces in between our frets gently measure time",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_05-Its-Time-8-6-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 32.54,
+  "clip_len": 15.0
+ },
+ {
+  "day": 237,
+  "song": "Nothing Lasts Forever",
+  "line": "Like a ghost that never leaves",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SlowBurnEP_05-Nothing-Lasts-Forever-7-20_FINAL_2026-07-20.m4a",
+  "clip_start": 23.98,
+  "clip_len": 10.0
+ },
+ {
+  "day": 238,
+  "song": "Dark Room",
+  "line": "In the stillness of the night I\u2019m haunted by your memory",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-GoldenHour_09-Dark-Room_FINAL_2025-01-27.m4a",
+  "clip_start": 152.18,
+  "clip_len": 10.78
+ },
+ {
+  "day": 239,
+  "song": "Stare at The Sun",
+  "line": "The weather changes quickly when I hear you say let\u2019s keep in touch",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_Stare-At-The-Sun-Ozone-11-9_FINAL_2021-11-09.m4a",
+  "clip_start": 48.4,
+  "clip_len": 14.06
+ },
+ {
+  "day": 240,
+  "song": "Downtown Dream",
+  "line": "I fell asleep inside a downtown cab in Chelsea",
+  "status": "ok",
+  "score": 99,
+  "file": "WCH-TheCityTheSea_07-Downtown-Dream-Lockdown-Master-2_FINAL_2021-04-12.m4a",
+  "clip_start": 37.2,
+  "clip_len": 11.78
+ },
+ {
+  "day": 241,
+  "song": "It\u2019s a Secret",
+  "line": "Your love wanders through the night",
+  "status": "ok",
+  "score": 72,
+  "file": "WCH-FavoriteSongLP_03-Its-A-Secret-Monday_FINAL_2026-09-28.m4a",
+  "clip_start": 21.3,
+  "clip_len": 11.18
+ },
+ {
+  "day": 242,
+  "song": "Your Ghost",
+  "line": "I see you packing outside my door",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-ModernHeartbreak_03-Your-Ghost-July-2024-Master_FINAL_2024-07-22.m4a",
+  "clip_start": 103.26,
+  "clip_len": 15.0
+ },
+ {
+  "day": 243,
+  "song": "Summerland",
+  "line": "I will breathe reluctantly and drive",
+  "status": "ok",
+  "score": 78,
+  "file": "WCH-SilentStreet_05-Summerland-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 127.9,
+  "clip_len": 15.0
+ },
+ {
+  "day": 244,
+  "song": "Disco",
+  "line": "Search the room for a secret sacred space",
+  "status": "ok",
+  "score": 98,
+  "file": "WCH-TheCityTheSea_02-Disco-Lockdown-Master_FINAL_2021-04-12.m4a",
+  "clip_start": 72.24,
+  "clip_len": 11.36
+ },
+ {
+  "day": 245,
+  "song": "Missing Piece",
+  "line": "Through every anxious moment through all your hidden fears",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-MusicMastersBounces_07-Missing-Piece-8-13-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 63.64,
+  "clip_len": 13.5
+ },
+ {
+  "day": 246,
+  "song": "All My Friends Got Famous",
+  "line": "Daniel wrote a novel, now it\u2019s on display",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-All-My-Friends-Got-Famous-7-8-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 120.08,
+  "clip_len": 10.0
+ },
+ {
+  "day": 247,
+  "song": "Stars May Fall",
+  "line": "Night falls silently around this troubled town",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_01-Stars-May-Fall-Lockdown-Master-2_FINAL_2021-04-14.m4a",
+  "clip_start": 4.04,
+  "clip_len": 13.16
+ },
+ {
+  "day": 248,
+  "song": "Phantom Limb",
+  "line": "Our cold distance grew and grew",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-MusicMastersBounces_03-Phantom-Limb-2-10-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 134.68,
+  "clip_len": 10.0
+ },
+ {
+  "day": 249,
+  "song": "The Future",
+  "line": "I see the future I want to choose",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-MusicMastersBounces_07-The-Future-FINAL-MASTER_v01_2026-10-24.m4a",
+  "clip_start": 91.78,
+  "clip_len": 12.56
+ },
+ {
+  "day": 250,
+  "song": "Blank Page",
+  "line": "I hit play, you appear you wave hello into the air",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-FavoriteSongLP_08-Blank-Page-Monday_FINAL_2026-09-28.m4a",
+  "clip_start": 11.52,
+  "clip_len": 15.0
+ },
+ {
+  "day": 251,
+  "song": "All In",
+  "line": "Gravity says stop, I say go, go, go",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-MusicMastersBounces_02-All-In-FINAL-MASTER_FINAL_2026-10-24.m4a",
+  "clip_start": 36.06,
+  "clip_len": 12.1
+ },
+ {
+  "day": 252,
+  "song": "Disco",
+  "line": "Tiny little diamonds shone in your eyes",
+  "status": "ok",
+  "score": 89,
+  "file": "WCH-TheCityTheSea_02-Disco-Lockdown-Master_FINAL_2021-04-12.m4a",
+  "clip_start": 36.66,
+  "clip_len": 11.64
+ },
+ {
+  "day": 253,
+  "song": "Your Ghost",
+  "line": "Nothing ever lasts no matter how I try",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-ModernHeartbreak_03-Your-Ghost-July-2024-Master_FINAL_2024-07-22.m4a",
+  "clip_start": 130.2,
+  "clip_len": 11.16
+ },
+ {
+  "day": 254,
+  "song": "Perfect Day",
+  "line": "It\u2019s a perfect day to raise your voice and sing",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DaysOfGold_04-Perfect-Day-Aug-2024-Master_FINAL_2024-08-28.m4a",
+  "clip_start": 141.32,
+  "clip_len": 10.0
+ },
+ {
+  "day": 255,
+  "song": "So Help Me",
+  "line": "You weren\u2019t who I expected you to be",
+  "status": "ok",
+  "score": 88,
+  "file": "WCH-MusicMastersBounces_07-So-Help-Me-2-10-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 143.34,
+  "clip_len": 11.14
+ },
+ {
+  "day": 256,
+  "song": "Text Me",
+  "line": "I play the same part every Friday night",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_01-Text-Me-When-Youre-Bored-7-8-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 64.74,
+  "clip_len": 10.0
+ },
+ {
+  "day": 257,
+  "song": "Silent Street",
+  "line": "I walk away, wounded from self defeat",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SilentStreet_03-Silent-Street-v2-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 60.38,
+  "clip_len": 11.74
+ },
+ {
+  "day": 258,
+  "song": "Dark Moon",
+  "line": "I turned away you thought I had nothing to say",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DarkMoon_02-Dark-Moon-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 48.9,
+  "clip_len": 14.26
+ },
+ {
+  "day": 259,
+  "song": "Barcelona",
+  "line": "JFK in the rain A taxicab switching lanes",
+  "status": "ok",
+  "score": 71,
+  "file": "WCH-MusicMastersBounces_10-Barcelona-1-6-2025-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 30.2,
+  "clip_len": 10.0
+ },
+ {
+  "day": 260,
+  "song": "Black Bird",
+  "line": "This black bird has finally flown",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DarkMoon_10-Black-Bird-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 82.1,
+  "clip_len": 15.0
+ },
+ {
+  "day": 261,
+  "song": "A Sea of Silence",
+  "line": "Your face reflects inside my screen from sea to shining sea I scream",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_A-Sea-of-Silence_v01_2026-10-24.m4a",
+  "clip_start": 173.62,
+  "clip_len": 15.0
+ },
+ {
+  "day": 262,
+  "song": "Come September",
+  "line": "The birds all sang out of tune when you said you\u2019re leaving",
+  "status": "ok",
+  "score": 83,
+  "file": "WCH-DarkMoon_07-Come-September-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 27.26,
+  "clip_len": 11.46
+ },
+ {
+  "day": 263,
+  "song": "The Songs You Sing",
+  "line": "Never knew how heavy the world was till I tried to lift it up",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-The-Songs-You-Sing-2-8-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 198.12,
+  "clip_len": 14.4
+ },
+ {
+  "day": 264,
+  "song": "After Party",
+  "line": "Kiss me as the world disappears",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-FavoriteSongLP_02-After-Party_FINAL_2026-09-28.m4a",
+  "clip_start": 59.12,
+  "clip_len": 10.0
+ },
+ {
+  "day": 265,
+  "song": "The Other Man",
+  "line": "I wish that I could be everything you need",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DarkMoon_05-The-Other-Man-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 103.94,
+  "clip_len": 15.0
+ },
+ {
+  "day": 266,
+  "song": "Sweetness",
+  "line": "A day I won\u2019t forget a moment of regret",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-BrighterDays2020_05-Sweetness-mastered_FINAL_2018-08-22.m4a",
+  "clip_start": 69.6,
+  "clip_len": 14.52
+ },
+ {
+  "day": 267,
+  "song": "Perfect Day",
+  "line": "We\u2019ve been waiting for so long for you to feel strong",
+  "status": "ok",
+  "score": 92,
+  "file": "WCH-DaysOfGold_04-Perfect-Day-Aug-2024-Master_FINAL_2024-08-28.m4a",
+  "clip_start": 133.42,
+  "clip_len": 11.2
+ },
+ {
+  "day": 268,
+  "song": "Open",
+  "line": "I\u2019m not sure which way we\u2019re heading",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-SummersHeart_10-Open-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 64.56,
+  "clip_len": 10.0
+ },
+ {
+  "day": 269,
+  "song": "Barcelona",
+  "line": "I\u2019ll be better off in Barcelona",
+  "status": "ok",
+  "score": 81,
+  "file": "WCH-MusicMastersBounces_10-Barcelona-1-6-2025-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 83.6,
+  "clip_len": 11.32
+ },
+ {
+  "day": 270,
+  "song": "Avalanche",
+  "line": "The winds were shifting the fires were lit",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-BrighterDays2020_01-Avalanche-mastered_FINAL_2018-08-22.m4a",
+  "clip_start": 171.84,
+  "clip_len": 12.9
+ },
+ {
+  "day": 271,
+  "song": "All My Friends Got Famous",
+  "line": "I see it on the High Street every single day",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-MusicMastersBounces_04-All-My-Friends-Got-Famous-7-8-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 123.5,
+  "clip_len": 10.0
+ },
+ {
+  "day": 272,
+  "song": "Lost Time",
+  "line": "We talk in circles when we\u2019re on the phone",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-MusicMastersBounces_04-Lost-Time-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 5.94,
+  "clip_len": 10.42
+ },
+ {
+  "day": 273,
+  "song": "Thin Air",
+  "line": "You spoke softly whispers reveal truth",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_02-Thin-Air-11-26-2024-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 69.46,
+  "clip_len": 14.46
+ },
+ {
+  "day": 274,
+  "song": "To the Quick",
+  "line": "These deadly summer nights you\u2019re the hunter I\u2019m your prey",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-DaysOfGold_09-To-The-Quick-Aug-2024-Master_FINAL_2024-08-27.m4a",
+  "clip_start": 111.34,
+  "clip_len": 14.98
+ },
+ {
+  "day": 275,
+  "song": "Perfect",
+  "line": "The thought of you sustains me, it carries me",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-WhenTheLightTurnsSoft_05-Perfect-Slow-Version-8-22-25-Master_FINAL_2025-08-25.m4a",
+  "clip_start": 264.7,
+  "clip_len": 15.0
+ },
+ {
+  "day": 276,
+  "song": "All Point West",
+  "line": "I knew I had a million tears to cry",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-All-Point-West-11-26-2024-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 114.46,
+  "clip_len": 12.7
+ },
+ {
+  "day": 277,
+  "song": "Hourglass",
+  "line": "As every last grain of sand covers my face",
+  "status": "ok",
+  "score": 99,
+  "file": "WCH-MusicMastersBounces_08-Hourglass-2-10-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 285.02,
+  "clip_len": 13.5
+ },
+ {
+  "day": 278,
+  "song": "Hey Cupid",
+  "line": "It\u2019s ok for you to tell me you don\u2019t know",
+  "status": "ok",
+  "score": 98,
+  "file": "WCH-TheCityTheSea_09-Hey-Cupid-Lockdown-Master-4_FINAL_2021-04-14.m4a",
+  "clip_start": 10.9,
+  "clip_len": 11.76
+ },
+ {
+  "day": 279,
+  "song": "Free Girl",
+  "line": "Wild and happy you wear it well",
+  "status": "ok",
+  "score": 85,
+  "file": "WCH-FavoriteSongLP_04-Free-Girl_FINAL_2026-09-28.m4a",
+  "clip_start": 125.34,
+  "clip_len": 10.0
+ },
+ {
+  "day": 280,
+  "song": "Lost in Los Angeles",
+  "line": "The freeway hums a hopeful song I chase the rush and learn",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-LostTime_05-Lost-In-Los-Angeles-FINAL-Master-1-27-26_FINAL_2026-01-29.m4a",
+  "clip_start": 209.1,
+  "clip_len": 15.0
+ },
+ {
+  "day": 281,
+  "song": "Midnight in Tokyo",
+  "line": "My jet-lagged heart is torn apart",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_03-Midnight-in-Tokyo-Master_v01_2026-10-24.m4a",
+  "clip_start": 12.5,
+  "clip_len": 10.82
+ },
+ {
+  "day": 282,
+  "song": "Bad Weather",
+  "line": "My heart feels stronger every day",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_07-Bad-Weather-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 76.16,
+  "clip_len": 12.56
+ },
+ {
+  "day": 283,
+  "song": "Sweetest Thing",
+  "line": "Honey on my tongue now everything tastes bland",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-DaysOfGold_07-Sweetest-Thing-V2-Aug-2024-Master_FINAL_2024-08-27.m4a",
+  "clip_start": 212.32,
+  "clip_len": 11.44
+ },
+ {
+  "day": 284,
+  "song": "Stare at The Sun",
+  "line": "The sound of choirs surround me and my heart bursts into flame",
+  "status": "ok",
+  "score": 99,
+  "file": "WCH-MusicMastersBounces_Stare-At-The-Sun-Ozone-11-9_FINAL_2021-11-09.m4a",
+  "clip_start": 18.72,
+  "clip_len": 12.78
+ },
+ {
+  "day": 285,
+  "song": "Hey Cupid",
+  "line": "Will we stay the best of friends?",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_09-Hey-Cupid-Lockdown-Master-4_FINAL_2021-04-14.m4a",
+  "clip_start": 18.38,
+  "clip_len": 10.0
+ },
+ {
+  "day": 286,
+  "song": "Blank Page",
+  "line": "You hit refresh, I appear I say hello into the air",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-FavoriteSongLP_08-Blank-Page-Monday_FINAL_2026-09-28.m4a",
+  "clip_start": 104.3,
+  "clip_len": 15.0
+ },
+ {
+  "day": 287,
+  "song": "Waking Dream",
+  "line": "You and I talk about the past just to live thru it",
+  "status": "ok",
+  "score": 97,
+  "file": "WCH-MusicMastersBounces_Waking-Dream-11-9-Master-v2_FINAL_2021-11-09.m4a",
+  "clip_start": 77.92,
+  "clip_len": 13.94
+ },
+ {
+  "day": 288,
+  "song": "Flirt",
+  "line": "She had long blonde hair with just a touch of gray",
+  "status": "ok",
+  "score": 73,
+  "file": "WCH-DaysOfGold_05-Flirt-August-2024-Master_FINAL_2024-08-27.m4a",
+  "clip_start": 15.02,
+  "clip_len": 10.2
+ },
+ {
+  "day": 289,
+  "song": "Come September",
+  "line": "I only wanted one last kiss instead of a sunburn",
+  "status": "ok",
+  "score": 92,
+  "file": "WCH-DarkMoon_07-Come-September-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 43.12,
+  "clip_len": 12.06
+ },
+ {
+  "day": 290,
+  "song": "A Sea of Silence",
+  "line": "I search for silver linings everywhere a sea of silence fills the air",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-MusicMastersBounces_A-Sea-of-Silence_v01_2026-10-24.m4a",
+  "clip_start": 212.9,
+  "clip_len": 15.0
+ },
+ {
+  "day": 291,
+  "song": "Superstar",
+  "line": "You\u2019re the only one I want standing here",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-MusicMastersBounces_01-Superstar_FINAL_2026-10-24.m4a",
+  "clip_start": 133.72,
+  "clip_len": 10.8
+ },
+ {
+  "day": 292,
+  "song": "Into Your Arms",
+  "line": "The early afternoon horizon glows amber lights shine from afar",
+  "status": "ok",
+  "score": 98,
+  "file": "WCH-FavoriteSongLP_06-Into-Your-Arms-Wednesday_FINAL_2026-09-30.m4a",
+  "clip_start": 24.52,
+  "clip_len": 15.0
+ },
+ {
+  "day": 293,
+  "song": "London Looks Good on You",
+  "line": "You say, \u201cthis place just fits somehow\u201d",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_02-London-Looks-Good-On-You-V2-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 126.54,
+  "clip_len": 10.0
+ },
+ {
+  "day": 294,
+  "song": "Eventually",
+  "line": "Make the most of what you have don\u2019t get so torn apart",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SummersHeart_12-Eventually-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 116.58,
+  "clip_len": 15.0
+ },
+ {
+  "day": 295,
+  "song": "Missing Piece",
+  "line": "Every fleeting heartbeat every word you hope to find",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_07-Missing-Piece-8-13-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 98.92,
+  "clip_len": 12.08
+ },
+ {
+  "day": 296,
+  "song": "Stars May Fall",
+  "line": "Even to this day I can\u2019t explain away",
+  "status": "ok",
+  "score": 99,
+  "file": "WCH-TheCityTheSea_01-Stars-May-Fall-Lockdown-Master-2_FINAL_2021-04-14.m4a",
+  "clip_start": 34.42,
+  "clip_len": 11.46
+ },
+ {
+  "day": 297,
+  "song": "Midnight Star",
+  "line": "I made a wish you made it real",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_05-Midnight-Star-8-15-25-Master_v02_2026-10-24.m4a",
+  "clip_start": 90.14,
+  "clip_len": 10.0
+ },
+ {
+  "day": 298,
+  "song": "Hourglass",
+  "line": "Songs that I sing will never bring you home to me",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_08-Hourglass-2-10-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 244.72,
+  "clip_len": 15.0
+ },
+ {
+  "day": 299,
+  "song": "Your Ghost",
+  "line": "Your words leave scars across my face",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-ModernHeartbreak_03-Your-Ghost-July-2024-Master_FINAL_2024-07-22.m4a",
+  "clip_start": 199.56,
+  "clip_len": 14.94
+ },
+ {
+  "day": 300,
+  "song": "Real Tears",
+  "line": "I finally found a friend in real tears",
+  "status": "ok",
+  "score": 83,
+  "file": "WCH-SummerSHeartFinal_02-Real-Tears-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 137.6,
+  "clip_len": 15.0
+ },
+ {
+  "day": 301,
+  "song": "Black Bird",
+  "line": "All these tears seem wasted now filled the days I won\u2019t recall",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-DarkMoon_10-Black-Bird-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 109.8,
+  "clip_len": 14.98
+ },
+ {
+  "day": 302,
+  "song": "Little Earthquakes",
+  "line": "I feel like I can barely breathe",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_Little-Earthquakes-11-10-2_FINAL_2021-11-10.m4a",
+  "clip_start": 80.62,
+  "clip_len": 12.28
+ },
+ {
+  "day": 303,
+  "song": "Call the Saints",
+  "line": "War is never worth it neither side won",
+  "status": "ok",
+  "score": 80,
+  "file": "WCH-MusicMastersBounces_09-Call-The-Saints-2-8-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 230.34,
+  "clip_len": 12.5
+ },
+ {
+  "day": 304,
+  "song": "Silent Street",
+  "line": "Though I may curse the night that you came into my life",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SilentStreet_03-Silent-Street-v2-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 243.38,
+  "clip_len": 13.34
+ },
+ {
+  "day": 305,
+  "song": "Real Tears",
+  "line": "I\u2019ve been bouncing off these walls all day",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SummerSHeartFinal_02-Real-Tears-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 55.1,
+  "clip_len": 13.78
+ },
+ {
+  "day": 306,
+  "song": "Waking Dream",
+  "line": "You think that truth is a laugh but only how I do it",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-MusicMastersBounces_Waking-Dream-11-9-Master-v2_FINAL_2021-11-09.m4a",
+  "clip_start": 68.92,
+  "clip_len": 13.48
+ },
+ {
+  "day": 307,
+  "song": "We Turn to Gold",
+  "line": "Although I\u2019m far away, you still sound close",
+  "status": "ok",
+  "score": 84,
+  "file": "WCH-MusicMastersBounces_07-We-Turn-To-Gold-1-19-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 44.86,
+  "clip_len": 12.84
+ },
+ {
+  "day": 308,
+  "song": "Your Life",
+  "line": "You miss the sound of her singing down the hall her voice was ringing",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-MusicMastersBounces_08-Your-Life-11-26-2024-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 69.06,
+  "clip_len": 12.5
+ },
+ {
+  "day": 309,
+  "song": "Midnight Star",
+  "line": "I\u2019ll keep every promise that I made",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_05-Midnight-Star-8-15-25-Master_v02_2026-10-24.m4a",
+  "clip_start": 101.7,
+  "clip_len": 12.0
+ },
+ {
+  "day": 310,
+  "song": "Foreign Money",
+  "line": "I\u2019m on the rocks of my despair",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_12-Foreign-Money-2-12-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 135.5,
+  "clip_len": 10.0
+ },
+ {
+  "day": 311,
+  "song": "Nothing Lasts Forever",
+  "line": "Your key still hanging in the door",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-SlowBurnEP_05-Nothing-Lasts-Forever-7-20_FINAL_2026-07-20.m4a",
+  "clip_start": 15.5,
+  "clip_len": 10.0
+ },
+ {
+  "day": 312,
+  "song": "Disco",
+  "line": "Focus on the pain and the regret",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_02-Disco-Lockdown-Master_FINAL_2021-04-12.m4a",
+  "clip_start": 152.16,
+  "clip_len": 10.88
+ },
+ {
+  "day": 313,
+  "song": "Your Life",
+  "line": "It\u2019s the only way that you found peace",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_08-Your-Life-11-26-2024-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 45.76,
+  "clip_len": 10.0
+ },
+ {
+  "day": 314,
+  "song": "Waking Dream",
+  "line": "Say goodbye to love shake me from this waking dream",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_Waking-Dream-11-9-Master-v2_FINAL_2021-11-09.m4a",
+  "clip_start": 166.32,
+  "clip_len": 15.0
+ },
+ {
+  "day": 315,
+  "song": "Black Bird",
+  "line": "Walking in the park amid all these restless leaves",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DarkMoon_10-Black-Bird-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 3.52,
+  "clip_len": 14.68
+ },
+ {
+  "day": 316,
+  "song": "Perfect",
+  "line": "I am an empty vessel you are a tender soul",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-WhenTheLightTurnsSoft_05-Perfect-Slow-Version-8-22-25-Master_FINAL_2025-08-25.m4a",
+  "clip_start": 49.76,
+  "clip_len": 15.0
+ },
+ {
+  "day": 317,
+  "song": "Borrowed Coat",
+  "line": "What I felt I was afraid to show",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-Borrowed-Coat-FINAL-MASTER-1_FINAL_2026-10-24.m4a",
+  "clip_start": 149.7,
+  "clip_len": 10.0
+ },
+ {
+  "day": 318,
+  "song": "Maps",
+  "line": "I found a map which shows which way we\u2019re supposed to go",
+  "status": "ok",
+  "score": 88,
+  "file": "WCH-MusicMastersBounces_12-Maps-8-6-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 5.88,
+  "clip_len": 15.0
+ },
+ {
+  "day": 319,
+  "song": "A Dent in the Universe",
+  "line": "I tried to make a dent in the universe so you\u2019d remember me",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-ModernHeartbreak_10-A-Dent-In-The-Universe_FINAL_2024-07-24.mp3",
+  "clip_start": 114.56,
+  "clip_len": 15.0
+ },
+ {
+  "day": 320,
+  "song": "These Wings",
+  "line": "I spoke from my heart you just waved me goodbye",
+  "status": "ok",
+  "score": 87,
+  "file": "WCH-SummersHeart_08-These-Wings-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 155.82,
+  "clip_len": 14.66
+ },
+ {
+  "day": 321,
+  "song": "Lost Time",
+  "line": "It\u2019s far too late to walk home all alone",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-Lost-Time-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 19.98,
+  "clip_len": 11.32
+ },
+ {
+  "day": 322,
+  "song": "Silent Street",
+  "line": "A chance encounter on a empty city street",
+  "status": "ok",
+  "score": 99,
+  "file": "WCH-SilentStreet_03-Silent-Street-v2-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 52.52,
+  "clip_len": 11.88
+ },
+ {
+  "day": 323,
+  "song": "Midnight in Tokyo",
+  "line": "Your hand in mine, we have time",
+  "status": "ok",
+  "score": 87,
+  "file": "WCH-MusicMastersBounces_03-Midnight-in-Tokyo-Master_v01_2026-10-24.m4a",
+  "clip_start": 40.28,
+  "clip_len": 10.7
+ },
+ {
+  "day": 324,
+  "song": "Free Girl",
+  "line": "Free girl dance into the night",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-FavoriteSongLP_04-Free-Girl_FINAL_2026-09-28.m4a",
+  "clip_start": 60.16,
+  "clip_len": 12.18
+ },
+ {
+  "day": 325,
+  "song": "Hourglass",
+  "line": "Each knot you tie the ropes burn and tear at my side",
+  "status": "ok",
+  "score": 91,
+  "file": "WCH-MusicMastersBounces_08-Hourglass-2-10-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 203.08,
+  "clip_len": 15.0
+ },
+ {
+  "day": 326,
+  "song": "Superstar",
+  "line": "You light my world with every word you say",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_01-Superstar_FINAL_2026-10-24.m4a",
+  "clip_start": 32.26,
+  "clip_len": 11.6
+ },
+ {
+  "day": 327,
+  "song": "Loud Love",
+  "line": "One that\u2019s bold enough to call my bluff",
+  "status": "line not found",
+  "score": 0,
+  "file": "WCH-WhenTheLightTurnsSoft_04-Loud-Love-8-25-25-Master_FINAL_2025-09-09.mp3",
+  "clip_start": null,
+  "clip_len": null
+ },
+ {
+  "day": 328,
+  "song": "Sweetness",
+  "line": "I burned so hard for you left my heart beating",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-BrighterDays2020_05-Sweetness-mastered_FINAL_2018-08-22.m4a",
+  "clip_start": 273.68,
+  "clip_len": 11.84
+ },
+ {
+  "day": 329,
+  "song": "Dark Moon",
+  "line": "I slept till noon morning came much too soon",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DarkMoon_02-Dark-Moon-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 95.9,
+  "clip_len": 14.24
+ },
+ {
+  "day": 330,
+  "song": "Free Girl",
+  "line": "You wore a black dress for no good reason",
+  "status": "ok",
+  "score": 85,
+  "file": "WCH-FavoriteSongLP_04-Free-Girl_FINAL_2026-09-28.m4a",
+  "clip_start": 10.46,
+  "clip_len": 10.0
+ },
+ {
+  "day": 331,
+  "song": "Your Ghost",
+  "line": "These days I don\u2019t know which side we\u2019re fighting on anymore",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-ModernHeartbreak_03-Your-Ghost-July-2024-Master_FINAL_2024-07-22.m4a",
+  "clip_start": 56.78,
+  "clip_len": 15.0
+ },
+ {
+  "day": 332,
+  "song": "Loosen Up",
+  "line": "Riding these waves we struggle to explain",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-SilentStreet_08-Loosen-Up-FINAL-Master-2022_FINAL_2022-09-23.m4a",
+  "clip_start": 10.48,
+  "clip_len": 15.0
+ },
+ {
+  "day": 333,
+  "song": "The Golden Hour",
+  "line": "I\u2019ve got nothing to fear anymore",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_The-Golden-Hour-9-6-24-Master_FINAL_2024-09-06.m4a",
+  "clip_start": 25.0,
+  "clip_len": 11.2
+ },
+ {
+  "day": 334,
+  "song": "Stare at The Sun",
+  "line": "The future\u2019s dark without you I don\u2019t know which road to choose",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-MusicMastersBounces_Stare-At-The-Sun-Ozone-11-9_FINAL_2021-11-09.m4a",
+  "clip_start": 71.46,
+  "clip_len": 12.78
+ },
+ {
+  "day": 335,
+  "song": "Days of Gold",
+  "line": "You traded truth for opportunity never once thought about you and me",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-DaysOfGold_01-Days-of-Gold-V4-Aug-2024-Master_FINAL_2024-08-28.m4a",
+  "clip_start": 60.89,
+  "clip_len": 15.0
+ },
+ {
+  "day": 336,
+  "song": "Nothing Lasts Forever",
+  "line": "I tell myself to move on but I never do",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SlowBurnEP_05-Nothing-Lasts-Forever-7-20_FINAL_2026-07-20.m4a",
+  "clip_start": 92.4,
+  "clip_len": 11.52
+ },
+ {
+  "day": 337,
+  "song": "Aloha",
+  "line": "You had me right where you wanted",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DarkMoon_03-Aloha-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 3.24,
+  "clip_len": 11.82
+ },
+ {
+  "day": 338,
+  "song": "Crush on You",
+  "line": "I laughed, can\u2019t believe it\u2019s true",
+  "status": "ok",
+  "score": 93,
+  "file": "WCH-MusicMastersBounces_03-Crush-On-You-7-18_FINAL_2026-10-24.m4a",
+  "clip_start": 61.08,
+  "clip_len": 10.0
+ },
+ {
+  "day": 339,
+  "song": "My Heart is Burning",
+  "line": "Drowned my heart under the sea",
+  "status": "ok",
+  "score": 74,
+  "file": "WCH-MusicMastersBounces_05-My-Heart-Is-Burning-1-6-2025-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 97.6,
+  "clip_len": 10.0
+ },
+ {
+  "day": 340,
+  "song": "Fresh Air",
+  "line": "Baby, baby, baby it\u2019s you I need",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_05-Fresh-Air-FINAL-MASTER-2_FINAL_2026-10-24.m4a",
+  "clip_start": 100.24,
+  "clip_len": 10.68
+ },
+ {
+  "day": 341,
+  "song": "All My Friends Got Famous",
+  "line": "Out of the picture while they\u2019re in the frame",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-All-My-Friends-Got-Famous-7-8-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 83.24,
+  "clip_len": 10.0
+ },
+ {
+  "day": 342,
+  "song": "Come September",
+  "line": "August made a fool of us but I still don\u2019t know why",
+  "status": "ok",
+  "score": 89,
+  "file": "WCH-DarkMoon_07-Come-September-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 52.74,
+  "clip_len": 12.1
+ },
+ {
+  "day": 343,
+  "song": "Eventually",
+  "line": "You run wild with choices chase opportunity",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-SummersHeart_12-Eventually-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 20.4,
+  "clip_len": 13.86
+ },
+ {
+  "day": 344,
+  "song": "Your Ghost",
+  "line": "Each day\u2019s a struggle we\u2019ve been at war",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-ModernHeartbreak_03-Your-Ghost-July-2024-Master_FINAL_2024-07-22.m4a",
+  "clip_start": 42.76,
+  "clip_len": 14.7
+ },
+ {
+  "day": 345,
+  "song": "Sweetest Thing",
+  "line": "Left alone and right or wrong this is how it began",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-DaysOfGold_07-Sweetest-Thing-V2-Aug-2024-Master_FINAL_2024-08-27.m4a",
+  "clip_start": 29.62,
+  "clip_len": 12.68
+ },
+ {
+  "day": 346,
+  "song": "Avalanche",
+  "line": "I would ride every wave no matter how steep",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-BrighterDays2020_01-Avalanche-mastered_FINAL_2018-08-22.m4a",
+  "clip_start": 109.2,
+  "clip_len": 12.08
+ },
+ {
+  "day": 347,
+  "song": "All My Friends Got Famous",
+  "line": "I said I don\u2019t like the attention but I\u2019m really just afraid",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-All-My-Friends-Got-Famous-7-8-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 92.74,
+  "clip_len": 15.0
+ },
+ {
+  "day": 348,
+  "song": "Blank Page",
+  "line": "Your heart\u2019s an open book a blank page",
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-FavoriteSongLP_08-Blank-Page-Monday_FINAL_2026-09-28.m4a",
+  "clip_start": 68.94,
+  "clip_len": 10.56
+ },
+ {
+  "day": 349,
+  "song": "Lost in Space",
+  "line": "I need you more right now than you could ever know",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_Lost-in-Space-11-9_FINAL_2021-11-09.m4a",
+  "clip_start": 251.94,
+  "clip_len": 13.02
+ },
+ {
+  "day": 350,
+  "song": "Dark Moon",
+  "line": "You said to me there\u2019s something that I want to be",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DarkMoon_02-Dark-Moon-Lockdown-Edition_FINAL_2021-05-06.m4a",
+  "clip_start": 25.74,
+  "clip_len": 14.26
+ },
+ {
+  "day": 351,
+  "song": "Lost Time",
+  "line": "Silence holds the questions that we\u2019re both too scared to ask",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-Lost-Time-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 35.48,
+  "clip_len": 12.5
+ },
+ {
+  "day": 352,
+  "song": "Downtown Dream",
+  "line": "Never knew I could dream in color",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-TheCityTheSea_07-Downtown-Dream-Lockdown-Master-2_FINAL_2021-04-12.m4a",
+  "clip_start": 108.28,
+  "clip_len": 10.0
+ },
+ {
+  "day": 353,
+  "song": "Faded Polaroid",
+  "line": "Your polaroid fades in my hand",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_02-Faded-Polaroid-Master-1-20-26_FINAL_2026-10-24.m4a",
+  "clip_start": 214.7,
+  "clip_len": 11.1
+ },
+ {
+  "day": 354,
+  "song": "Waking Dream",
+  "line": "I learned to spend my time alone now I see you\u2019re just selfish",
+  "status": "ok",
+  "score": 82,
+  "file": "WCH-MusicMastersBounces_Waking-Dream-11-9-Master-v2_FINAL_2021-11-09.m4a",
+  "clip_start": 121.84,
+  "clip_len": 14.26
+ },
+ {
+  "day": 355,
+  "song": "Open",
+  "line": "How can I fall asleep with your words still in my head?",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SummersHeart_10-Open-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 12.5,
+  "clip_len": 13.44
+ },
+ {
+  "day": 356,
+  "song": "Fresh Air",
+  "line": "Scanning stations for the sound of silence",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_05-Fresh-Air-FINAL-MASTER-2_FINAL_2026-10-24.m4a",
+  "clip_start": 49.14,
+  "clip_len": 10.0
+ },
+ {
+  "day": 357,
+  "song": "All My Friends Got Famous",
+  "line": "I walk past it every day but he\u2019ll never know",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_04-All-My-Friends-Got-Famous-7-8-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 55.06,
+  "clip_len": 10.0
+ },
+ {
+  "day": 358,
+  "song": "My Heart is Burning",
+  "line": "You broke my heart in a million ways",
+  "status": "ok",
+  "score": 83,
+  "file": "WCH-MusicMastersBounces_05-My-Heart-Is-Burning-1-6-2025-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 40.1,
+  "clip_len": 12.88
+ },
+ {
+  "day": 359,
+  "song": "Lost in Space",
+  "line": "You\u2019re leaving soon and there was nothing I could do",
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-MusicMastersBounces_Lost-in-Space-11-9_FINAL_2021-11-09.m4a",
+  "clip_start": 229.04,
+  "clip_len": 12.3
+ },
+ {
+  "day": 360,
+  "song": "Avalanche",
+  "line": "Your love is an avalanche and you bury me alive",
+  "status": "line not found",
+  "score": 51,
+  "file": "WCH-BrighterDays2020_01-Avalanche-mastered_FINAL_2018-08-22.m4a",
+  "clip_start": null,
+  "clip_len": null
+ },
+ {
+  "day": 361,
+  "song": "Real Tears",
+  "line": "For putting my true self out there",
+  "status": "ok",
+  "score": 94,
+  "file": "WCH-SummerSHeartFinal_02-Real-Tears-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 184.14,
+  "clip_len": 10.6
+ },
+ {
+  "day": 362,
+  "song": "Star",
+  "line": "I search for someone who deserves my heart",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-DaysOfGold_02-Star-Aug-2024-Master_FINAL_2024-08-28.m4a",
+  "clip_start": 60.5,
+  "clip_len": 14.1
+ },
+ {
+  "day": 363,
+  "song": "Open",
+  "line": "I\u2019m not sure which way I\u2019m heading",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-SummersHeart_10-Open-Master-10_FINAL_2018-06-27.m4a",
+  "clip_start": 64.56,
+  "clip_len": 10.0
+ },
+ {
+  "day": 364,
+  "song": "All My Friends Got Famous",
+  "line": "Oh did I forgot to mention they all forgot my name",
+  "status": "ok",
+  "score": 92,
+  "file": "WCH-MusicMastersBounces_04-All-My-Friends-Got-Famous-7-8-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 108.44,
+  "clip_len": 14.54
+ },
+ {
+  "day": 365,
+  "song": "False Prophet",
+  "line": "I\u2019ve been known to be pretty impatient",
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_01-False-Prophet-2-11-25-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 21.58,
+  "clip_len": 10.0
+ }
+]

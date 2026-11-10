@@ -3,7 +3,7 @@
  "post_hour_pacific": 9,
  "paused": false,
  "stories_paused": false,
- "reels": false,
+ "reels": true,
  "rotation": [
   "reel",
   "horoscope",
