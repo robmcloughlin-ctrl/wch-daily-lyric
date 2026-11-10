@@ -39,7 +39,9 @@ jobs:
         run: |
           [ "$(python3 -c 'import json;print(json.load(open("config.json")).get("reels",False))')" = "True" ] || { echo "Reels are off."; exit 0; }
           [ "$FORCE" = "true" ] || [ "$(TZ=America/Los_Angeles date +%-H)" -ge "$(python3 -c 'import json;print(json.load(open("config.json"))["post_hour_pacific"])')" ] || { echo "Not time yet."; exit 0; }
-          DAY=$(python3 scripts/today.py); CLIP=$(printf "clips/%03d.m4a" "$DAY")
+          read KIND DAY < <(python3 scripts/schedule.py)
+          [ "$KIND" = "reel" ] || { echo "Today is a $KIND day."; exit 0; }
+          CLIP=$(printf "clips/%03d.m4a" "$DAY")
           [ -f "$CLIP" ] || { echo "No song clip for day $DAY; posting the still card."; exit 0; }
           npm install --no-save playwright@1 >/dev/null && npx playwright install --with-deps chromium >/dev/null
           command -v ffmpeg >/dev/null || sudo apt-get install -y ffmpeg >/dev/null
@@ -88,8 +90,9 @@ jobs:
           from zoneinfo import ZoneInfo
           c = json.load(open("config.json")); now = datetime.now(ZoneInfo("America/Los_Angeles"))
           force = os.environ.get("FORCE") == "true"
+          import sys; sys.path.insert(0, "scripts"); from schedule import plan
           go = not c.get("paused") and not c.get("stories_paused") and (force or (
-              now.date() >= date.fromisoformat(c["stories_start_date"]) and now.hour >= c["post_hour_pacific"]))
+              plan(now.date(), c)["kind"] == "horoscope" and now.hour >= c["post_hour_pacific"]))
           print(f"go={'yes' if go else 'no'}"); print(f"today={now:%Y-%m-%d}")
           PY
       - name: Get the stories branch

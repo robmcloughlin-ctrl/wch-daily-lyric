@@ -43,8 +43,13 @@ if today < start and not FORCE:
 if now.hour < cfg["post_hour_pacific"] and not FORCE:
     print(f"It's {now:%H:%M} Pacific; waiting for {cfg['post_hour_pacific']}:00."); sys.exit(0)
 
-post = posts[(today - start).days % len(posts)]
-print(f"Today's card: day {post['day']}: {post['lyric']} ({post['song']})")
+sys.path.insert(0, os.path.dirname(__file__))
+from schedule import plan
+today_plan = plan(today, cfg, posts)
+if today_plan["kind"] == "horoscope" and not FORCE:
+    print("Today is a horoscope Stories day; no feed post."); sys.exit(0)
+post = today_plan["post"]
+print(f"Today's lyric: day {post['day']}: {post['lyric']} ({post['song']}) [{today_plan['kind']}]")
 
 # Already posted today? Compare with the most recent post's caption.
 recent = call("GET", f"{USER}/media", fields="caption,timestamp", limit="3").get("data", [])
