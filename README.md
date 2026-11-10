@@ -18,4 +18,4 @@ After 365 days the cards start again from day 1.
 
 ## Secrets (Settings → Secrets and variables → Actions)
 - `IG_TOKEN`: the system-user access token from the Meta app "WCH Daily Lyric" (Instagram API with Unified login, owned by the Inner Noise Records business portfolio). It never expires, so there's nothing to renew. If it ever stops working, generate a new one under Use cases → Instagram API → API setup with Unified login → Generate token.
-- `IG_USER_ID`: 17841455416450834 (@westcoasthearts_band).
+- `IG_USER_ID` (optional): defaults to 17841455416450834 (@westcoasthearts_band) in the workflow.
