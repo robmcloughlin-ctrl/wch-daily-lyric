@@ -17,7 +17,7 @@ on:
         default: true
 
 permissions:
-  contents: read
+  contents: write
   issues: write
 
 concurrency: daily-lyric
@@ -45,3 +45,68 @@ jobs:
           gh issue create --repo "$GITHUB_REPOSITORY" \
             --title "Daily lyric didn't post on $(TZ=America/Los_Angeles date +%F)" \
             --body "The scheduled run failed. Details: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+
+  stories:
+    # Today's lyric horoscope (12 signs) as Instagram Stories, right after the card.
+    needs: post
+    if: always()
+    runs-on: ubuntu-latest
+    env:
+      IG_TOKEN: ${{ secrets.IG_TOKEN }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID || '17841455416450834' }}
+      DRY_RUN: ${{ inputs.dry_run }}
+      FORCE: ${{ inputs.force }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Is it time?
+        id: gate
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os
+          from datetime import datetime, date
+          from zoneinfo import ZoneInfo
+          c = json.load(open("config.json")); now = datetime.now(ZoneInfo("America/Los_Angeles"))
+          force = os.environ.get("FORCE") == "true"
+          go = not c.get("paused") and not c.get("stories_paused") and (force or (
+              now.date() >= date.fromisoformat(c["stories_start_date"]) and now.hour >= c["post_hour_pacific"]))
+          print(f"go={'yes' if go else 'no'}"); print(f"today={now:%Y-%m-%d}")
+          PY
+      - name: Get the stories branch
+        if: steps.gate.outputs.go == 'yes'
+        run: |
+          git config --global user.name "wch-daily-lyric"; git config --global user.email "actions@users.noreply.github.com"
+          git clone -q --depth 1 --branch stories "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" st \
+            || { mkdir -p st && git -C st init -q -b stories; }
+          if [ -f "st/posted-${{ steps.gate.outputs.today }}" ] && [ "$DRY_RUN" != "true" ]; then
+            echo "Today's horoscope Stories are already up."; echo "DONE=1" >> "$GITHUB_ENV"; fi
+      - uses: actions/setup-node@v4
+        if: steps.gate.outputs.go == 'yes' && env.DONE != '1'
+        with:
+          node-version: "22"
+      - name: Render today's horoscope cards
+        if: steps.gate.outputs.go == 'yes' && env.DONE != '1'
+        run: |
+          if [ ! -f "st/${{ steps.gate.outputs.today }}.json" ]; then
+            npm install --no-save playwright@1 && npx playwright install --with-deps chromium
+            mkdir -p cards && node scripts/horoscope_cards.mjs cards
+            rm -rf st && mkdir st && cp cards/* st/ && cd st
+            git init -q -b stories && git add -A && git commit -qm "Horoscope cards for ${{ steps.gate.outputs.today }}"
+            git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" HEAD:stories
+            sleep 20   # let raw.githubusercontent.com catch up
+          fi
+      - name: Post the Stories
+        if: steps.gate.outputs.go == 'yes' && env.DONE != '1'
+        run: |
+          python scripts/post_stories.py st
+          if [ "$DRY_RUN" != "true" ]; then
+            cd st && git add -A && git commit -qm "Posted ${{ steps.gate.outputs.today }}" \
+              && git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" HEAD:stories
+          fi
+      - name: Open an issue if the Stories failed
+        if: failure() && github.event_name == 'schedule'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create --repo "$GITHUB_REPOSITORY" \
+            --title "Horoscope Stories didn't post on $(TZ=America/Los_Angeles date +%F)" \
+            --body "Details: $GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
