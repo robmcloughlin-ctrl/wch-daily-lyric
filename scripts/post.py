@@ -48,18 +48,26 @@ print(f"Today's card: day {post['day']}: {post['lyric']} ({post['song']})")
 
 # Already posted today? Compare with the most recent post's caption.
 recent = call("GET", f"{USER}/media", fields="caption,timestamp", limit="3").get("data", [])
-if any((m.get("caption") or "").strip() == post["caption"].strip() for m in recent):
+if not DRY and any((m.get("caption") or "").strip() == post["caption"].strip() for m in recent):
     print("Today's card is already on Instagram; nothing to do."); sys.exit(0)
 
-image_url = f"https://raw.githubusercontent.com/{REPO}/{BRANCH}/{post['image']}"
-container = call("POST", f"{USER}/media", image_url=image_url, caption=post["caption"])["id"]
-for _ in range(30):                                   # wait up to ~60s for Instagram to fetch the image
+REEL_URL = os.environ.get("REEL_URL")  # set by the workflow when today's Reel was made
+if REEL_URL:
+    print("Posting today's lyric as a Reel.")
+    container = call("POST", f"{USER}/media", media_type="REELS", video_url=REEL_URL,
+                     caption=post["caption"], share_to_feed="true")["id"]
+    tries, wait, kind = 100, 3, "video"                # videos can take a few minutes
+else:
+    image_url = f"https://raw.githubusercontent.com/{REPO}/{BRANCH}/{post['image']}"
+    container = call("POST", f"{USER}/media", image_url=image_url, caption=post["caption"])["id"]
+    tries, wait, kind = 30, 2, "image"
+for _ in range(tries):
     status = call("GET", container, fields="status_code").get("status_code")
     if status == "FINISHED": break
-    if status == "ERROR": sys.exit("Instagram could not process the image.")
-    time.sleep(2)
+    if status == "ERROR": sys.exit(f"Instagram could not process the {kind}.")
+    time.sleep(wait)
 else:
-    sys.exit("Instagram took too long to process the image.")
+    sys.exit(f"Instagram took too long to process the {kind}.")
 
 if DRY:
     print("Dry run: the post was prepared but not published. Everything is connected."); sys.exit(0)

@@ -24,3 +24,12 @@ jobs:
           git -c user.name=wch -c user.email=actions@users.noreply.github.com add -A
           git -c user.name=wch -c user.email=actions@users.noreply.github.com commit -qm "Test Reel day ${{ inputs.day }}"
           git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" HEAD:reel-test
+      - name: Check Instagram accepts it (prepares the Reel, doesn't publish)
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID || '17841455416450834' }}
+          DRY_RUN: "true"
+          FORCE: "true"
+        run: |
+          sleep 20
+          REEL_URL="https://raw.githubusercontent.com/${{ github.repository }}/reel-test/reel-${{ inputs.day }}.mp4" python3 scripts/post.py

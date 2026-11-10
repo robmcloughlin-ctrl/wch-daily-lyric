@@ -30,6 +30,27 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Make today's Reel
+        # If Reels are on and today's line has a song clip, render the Reel and
+        # publish it on the reels branch. Any problem here falls back to the still card.
+        continue-on-error: true
+        env:
+          FORCE: ${{ inputs.force }}
+        run: |
+          [ "$(python3 -c 'import json;print(json.load(open("config.json")).get("reels",False))')" = "True" ] || { echo "Reels are off."; exit 0; }
+          [ "$FORCE" = "true" ] || [ "$(TZ=America/Los_Angeles date +%-H)" -ge "$(python3 -c 'import json;print(json.load(open("config.json"))["post_hour_pacific"])')" ] || { echo "Not time yet."; exit 0; }
+          DAY=$(python3 scripts/today.py); CLIP=$(printf "clips/%03d.m4a" "$DAY")
+          [ -f "$CLIP" ] || { echo "No song clip for day $DAY; posting the still card."; exit 0; }
+          npm install --no-save playwright@1 >/dev/null && npx playwright install --with-deps chromium >/dev/null
+          command -v ffmpeg >/dev/null || sudo apt-get install -y ffmpeg >/dev/null
+          NAME="reel-$(TZ=America/Los_Angeles date +%F)-$(printf %03d "$DAY").mp4"
+          scripts/make_reel.sh "$DAY" "/tmp/$NAME"
+          mkdir -p /tmp/rb && cp "/tmp/$NAME" /tmp/rb/ && cd /tmp/rb && git init -q -b reels \
+            && git -c user.name=wch -c user.email=actions@users.noreply.github.com add -A \
+            && git -c user.name=wch -c user.email=actions@users.noreply.github.com commit -qm "Reel for day $DAY" \
+            && git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" HEAD:reels
+          sleep 20
+          echo "REEL_URL=https://raw.githubusercontent.com/${{ github.repository }}/reels/$NAME" >> "$GITHUB_ENV"
       - name: Post today's card
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
