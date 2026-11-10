@@ -1,0 +1,26 @@
+name: Reel test
+# Renders one day's Reel without posting it, and saves it to the reel-test branch.
+on:
+  workflow_dispatch:
+    inputs:
+      day:
+        description: "Day number (1-365)"
+        default: "1"
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: npm install --no-save playwright@1 && npx playwright install --with-deps chromium && sudo apt-get install -y ffmpeg >/dev/null
+      - run: scripts/make_reel.sh "${{ inputs.day }}" "reel-${{ inputs.day }}.mp4"
+      - name: Save to the reel-test branch
+        run: |
+          mkdir out && mv reel-*.mp4 out/ && cd out && git init -q -b reel-test
+          git -c user.name=wch -c user.email=actions@users.noreply.github.com add -A
+          git -c user.name=wch -c user.email=actions@users.noreply.github.com commit -qm "Test Reel day ${{ inputs.day }}"
+          git push -qf "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" HEAD:reel-test
