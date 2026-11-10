@@ -60,8 +60,8 @@ const b64 = await page.evaluate(async ({ day, ms }) => {
   const seed = hashStr("reel" + day.day), N = 18;
   const terrain = makeNoise(seed), hand = Array.from({ length: N }, (_, i) => makeNoise(seed + 11 + i)), weight = makeNoise(seed + 5);
   const g = (v, c, w) => Math.exp(-(((v - c) / w) ** 2));
-  const horizon = Math.max(textBottom + 40, H * .66), span = H - horizon;
   const swellH = Math.min(H * .1, 220), swellW = W * .3;
+  const horizon = Math.min(Math.max(textBottom + 60 + swellH, H * .66), H * .8), span = H - horizon;
 
   const cv = mk(), ctx = cv.getContext("2d");
   function frame(t) {
