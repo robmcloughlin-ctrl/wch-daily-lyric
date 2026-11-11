@@ -23,11 +23,11 @@
   "day": 3,
   "song": "Anchor & Wave",
   "line": "I was the anchor, you were the wave",
-  "status": "no audio",
-  "score": null,
-  "file": null,
-  "clip_start": null,
-  "clip_len": null
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-AudioFiles_05-Anchor-Wave_FINAL_2018-05-04.m4a",
+  "clip_start": 7.78,
+  "clip_len": 15.0
  },
  {
   "day": 4,
@@ -53,11 +53,11 @@
   "day": 6,
   "song": "Loud Love",
   "line": "I\u2019ve been dreaming of a loud love lately",
-  "status": "line not found",
-  "score": 0,
-  "file": "WCH-WhenTheLightTurnsSoft_04-Loud-Love-8-25-25-Master_FINAL_2025-09-09.mp3",
-  "clip_start": null,
-  "clip_len": null
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-MusicMastersBounces_Loud-Love-v2-9-5-25-Master_v02_2025-09-05.m4a",
+  "clip_start": 39.58,
+  "clip_len": 10.0
  },
  {
   "day": 7,
@@ -903,11 +903,11 @@
   "day": 91,
   "song": "Sparks",
   "line": "You were the spark that set me alight",
-  "status": "line not found",
-  "score": 64,
-  "file": "WCH-SilentStreet_01-Sparks-FINAL-Master-2022_FINAL_2022-09-23.m4a",
-  "clip_start": null,
-  "clip_len": null
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-AudioFiles_Sparks-July-2021_FINAL_2021-08-04.mp3",
+  "clip_start": 52.36,
+  "clip_len": 11.14
  },
  {
   "day": 92,
@@ -1713,11 +1713,11 @@
   "day": 172,
   "song": "Sea of My Heart",
   "line": "My feelings for you are no longer hidden",
-  "status": "line not found",
-  "score": 55,
-  "file": "WCH-DarkMoon_06-Sea-of-My-Heart-Lockdown-Edition_FINAL_2021-05-06.m4a",
-  "clip_start": null,
-  "clip_len": null
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-AudioFiles_Sea-of-My-Heart-2021_v01_2021-04-22.mp3",
+  "clip_start": 176.18,
+  "clip_len": 13.04
  },
  {
   "day": 173,
@@ -1933,11 +1933,11 @@
   "day": 194,
   "song": "Disco",
   "line": "Met you in a dark and empty hall",
-  "status": "line not found",
-  "score": 51,
-  "file": "WCH-TheCityTheSea_02-Disco-Lockdown-Master_FINAL_2021-04-12.m4a",
-  "clip_start": null,
-  "clip_len": null
+  "status": "ok",
+  "score": 83,
+  "file": "WCH-AudioFiles_Disco-May17-2_FINAL_2017-05-14.m4a",
+  "clip_start": 18.52,
+  "clip_len": 11.42
  },
  {
   "day": 195,
@@ -2043,11 +2043,11 @@
   "day": 205,
   "song": "Loud Love",
   "line": "Drifting closer to you lost in time",
-  "status": "line not found",
-  "score": 0,
-  "file": "WCH-WhenTheLightTurnsSoft_04-Loud-Love-8-25-25-Master_FINAL_2025-09-09.mp3",
-  "clip_start": null,
-  "clip_len": null
+  "status": "ok",
+  "score": 88,
+  "file": "WCH-MusicMastersBounces_Loud-Love-8-25-25-Master_v02_2025-08-25.m4a",
+  "clip_start": 30.16,
+  "clip_len": 10.78
  },
  {
   "day": 206,
@@ -2083,11 +2083,11 @@
   "day": 209,
   "song": "Wildfires",
   "line": "I feel untethered drowning in a dream",
-  "status": "line not found",
-  "score": 64,
-  "file": "WCH-MusicMastersBounces_07-Wildfires-1-6-2025-Master_FINAL_2026-10-24.m4a",
-  "clip_start": null,
-  "clip_len": null
+  "status": "ok",
+  "score": 95,
+  "file": "WCH-AudioFiles_06-Wildfires-v2-Demos_FINAL_2023-03-09.m4a",
+  "clip_start": 111.0,
+  "clip_len": 10.0
  },
  {
   "day": 210,
@@ -2273,11 +2273,11 @@
   "day": 228,
   "song": "Bad Weather",
   "line": "The coast isn\u2019t clear, skies aren\u2019t blue",
-  "status": "line not found",
-  "score": 50,
-  "file": "WCH-MusicMastersBounces_07-Bad-Weather-Master-1-20-26_FINAL_2026-10-24.m4a",
-  "clip_start": null,
-  "clip_len": null
+  "status": "ok",
+  "score": 70,
+  "file": "WCH-MusicMastersBounces_06-Bad-Weather-1-19-26-Master_FINAL_2026-10-24.m4a",
+  "clip_start": 122.12,
+  "clip_len": 12.42
  },
  {
   "day": 229,
@@ -3263,11 +3263,11 @@
   "day": 327,
   "song": "Loud Love",
   "line": "One that\u2019s bold enough to call my bluff",
-  "status": "line not found",
-  "score": 0,
-  "file": "WCH-WhenTheLightTurnsSoft_04-Loud-Love-8-25-25-Master_FINAL_2025-09-09.mp3",
-  "clip_start": null,
-  "clip_len": null
+  "status": "ok",
+  "score": 89,
+  "file": "WCH-MusicMastersBounces_Loud-Love-v2-9-5-25-Master_v02_2025-09-05.m4a",
+  "clip_start": 87.84,
+  "clip_len": 10.0
  },
  {
   "day": 328,
