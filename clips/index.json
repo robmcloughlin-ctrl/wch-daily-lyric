@@ -1383,11 +1383,11 @@
   "day": 139,
   "song": "Moonlight, Midnight",
   "line": "Grab a table and talk all night",
-  "status": "line not found",
-  "score": 56,
-  "file": "WCH-AudioFiles_08-Moonlight-Midnight_FINAL_2019-04-24.m4a",
-  "clip_start": null,
-  "clip_len": null
+  "status": "ok",
+  "score": 100,
+  "file": "WCH-AudioFiles_Moonlight-2021_v03_2021-04-29.mp3",
+  "clip_start": 98.94,
+  "clip_len": 11.22
  },
  {
   "day": 140,
@@ -1813,11 +1813,11 @@
   "day": 182,
   "song": "London Looks Good on You",
   "line": "You sent a map with circles drawn",
-  "status": "line not found",
-  "score": 59,
-  "file": "WCH-MusicMastersBounces_02-London-Looks-Good-On-You-V2-Master_FINAL_2026-10-24.m4a",
-  "clip_start": null,
-  "clip_len": null
+  "status": "ok",
+  "score": 81,
+  "file": "WCH-MusicMastersBounces_London-Looks-Good-on-You_FINAL_2026-06-29.m4a",
+  "clip_start": 85.08,
+  "clip_len": 10.0
  },
  {
   "day": 183,
@@ -3593,11 +3593,11 @@
   "day": 360,
   "song": "Avalanche",
   "line": "Your love is an avalanche and you bury me alive",
-  "status": "line not found",
-  "score": 51,
-  "file": "WCH-BrighterDays2020_01-Avalanche-mastered_FINAL_2018-08-22.m4a",
-  "clip_start": null,
-  "clip_len": null
+  "status": "ok",
+  "score": 96,
+  "file": "WCH-ModernHeartbreak_Avalanche-RX8_FINAL_2024-07-23.mp3",
+  "clip_start": 181.28,
+  "clip_len": 15.0
  },
  {
   "day": 361,
