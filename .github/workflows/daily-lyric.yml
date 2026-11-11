@@ -2,9 +2,9 @@ name: Daily lyric
 
 on:
   schedule:
-    # GitHub runs schedules in UTC and sometimes late, so try a few times each morning.
+    # GitHub runs schedules in UTC and sometimes late or not at all, so try every hour from 8am to 3pm Pacific.
     # The script posts once, at or after 9 am Pacific, and skips if today's card is already up.
-    - cron: "5 16,17,18,19 * * *"
+    - cron: "5 16-23 * * *"
   workflow_dispatch:
     inputs:
       dry_run:
